@@ -1,0 +1,101 @@
+﻿_id,sku,name,category,subcategory,material,color,sizes,cost_price,sale_price,stock,status,created_at
+PROD001,SP001,Phụ kiện Túi xách Limited 1,Phụ kiện,Túi xách,Kaki,Be,"XXL,XL,M,S",227826,305640,338,active,2026-01-01T00:00:00Z
+PROD002,SP002,Sơ mi Sơ mi nữ Basic 2,Sơ mi,Sơ mi nữ,Ren,Trắng,"XXL,L,M",261124,669082,225,active,2026-01-01T00:00:00Z
+PROD003,SP003,Đầm váy Ôm Limited 3,Đầm váy,Ôm,Polyester 100%,Cam,"L,S,M,XXL",177911,651941,154,active,2026-01-01T00:00:00Z
+PROD004,SP004,Sơ mi Sơ mi nam Cao cấp 4,Sơ mi,Sơ mi nam,Lụa,Cam,"XL,S,M,XXL",196878,653272,288,active,2026-01-01T00:00:00Z
+PROD005,SP005,Áo thun Thun tay dài Basic 5,Áo thun,Thun tay dài,Polyester 100%,Xám,"XXL,S,L",239185,551591,164,active,2026-01-01T00:00:00Z
+PROD006,SP006,Áo thun Cổ tim Mới 6,Áo thun,Cổ tim,Polyester 100%,Hồng,"S,XXL,L,XL,M",202037,310956,53,active,2026-01-01T00:00:00Z
+PROD007,SP007,Chân váy Bút chì Mới 7,Chân váy,Bút chì,Thun lạnh,Hồng,"XXL,XL,M,S,L",273420,743757,265,active,2026-01-01T00:00:00Z
+PROD008,SP008,Đầm váy Suông Limited 8,Đầm váy,Suông,Len 60%,Xanh lá,"L,XXL,S,M,XL",296816,402377,116,active,2026-01-01T00:00:00Z
+PROD009,SP009,Đầm váy Sơ mi Cao cấp 9,Đầm váy,Sơ mi,Ren,Đỏ,"S,M,L",218782,338351,0,active,2026-01-01T00:00:00Z
+PROD010,SP010,Đầm váy Ôm Mới 10,Đầm váy,Ôm,Thun lạnh,Be,"XXL,XL,S,M,L",110645,364274,287,active,2026-01-01T00:00:00Z
+PROD011,SP011,Quần short Quần nữ Basic 11,Quần short,Quần nữ,Cotton 100%,Nâu,"XXL,S,XL",153827,601091,57,active,2026-01-01T00:00:00Z
+PROD012,SP012,Áo khoác Cardigan Mới 12,Áo khoác,Cardigan,Lụa,Xanh lá,"L,M,XXL,XL",239476,591062,34,active,2026-01-01T00:00:00Z
+PROD013,SP013,Quần short Quần nam Mới 13,Quần short,Quần nam,Lụa,Xanh navy,"S,M,L,XXL,XL",199932,653820,51,active,2026-01-01T00:00:00Z
+PROD014,SP014,Phụ kiện Túi xách Cao cấp 14,Phụ kiện,Túi xách,Denim 98%,Đỏ,"S,XXL,L,XL",157949,213273,0,active,2026-01-01T00:00:00Z
+PROD015,SP015,Đồ bộ Thể thao Cao cấp 15,Đồ bộ,Thể thao,Polyester 100%,Tím,"S,XXL,L",81714,141168,60,active,2026-01-01T00:00:00Z
+PROD016,SP016,Đầm váy Suông Cao cấp 16,Đầm váy,Suông,Cotton 100%,Vàng,"M,XXL,XL,L",297762,648858,421,active,2026-01-01T00:00:00Z
+PROD017,SP017,Đầm váy Suông Mới 17,Đầm váy,Suông,Denim 98%,Hồng,"XL,XXL,L,M,S",221058,661945,316,active,2026-01-01T00:00:00Z
+PROD018,SP018,Quần short Quần nam Basic 18,Quần short,Quần nam,Lụa,Xám,"XXL,L,XL",157333,525077,25,active,2026-01-01T00:00:00Z
+PROD019,SP019,Sơ mi Sơ mi công sở Limited 19,Sơ mi,Sơ mi công sở,Denim 98%,Vàng,"XL,L,XXL,S,M",268263,544547,382,active,2026-01-01T00:00:00Z
+PROD020,SP020,Quần short Quần nam Cao cấp 20,Quần short,Quần nam,Thun lạnh,Đỏ,"XXL,L,XL,S",115992,596446,65,active,2026-01-01T00:00:00Z
+PROD021,SP021,Phụ kiện Thắt lưng Mới 21,Phụ kiện,Thắt lưng,Polyester 100%,Tím,"XL,XXL,S",148143,422319,351,active,2026-01-01T00:00:00Z
+PROD022,SP022,Quần short Quần nam Cao cấp 22,Quần short,Quần nam,Thun lạnh,Đen,"M,L,XL,S",177785,643656,185,active,2026-01-01T00:00:00Z
+PROD023,SP023,Sơ mi Sơ mi nữ Basic 23,Sơ mi,Sơ mi nữ,Thun lạnh,Xanh navy,"L,S,XL",234384,727640,417,active,2026-01-01T00:00:00Z
+PROD024,SP024,Đầm váy Ôm Cao cấp 24,Đầm váy,Ôm,Thun lạnh,Xanh navy,"L,XXL,M",139165,512394,227,active,2026-01-01T00:00:00Z
+PROD025,SP025,Đồ bộ Pyjama Cao cấp 25,Đồ bộ,Pyjama,Kaki,Cam,"XL,S,M",81226,159213,70,active,2026-01-01T00:00:00Z
+PROD026,SP026,Áo khoác Len Basic 26,Áo khoác,Len,Kaki,Trắng,"XXL,L,M",56291,410531,233,active,2026-01-01T00:00:00Z
+PROD027,SP027,Sơ mi Sơ mi nữ Basic 27,Sơ mi,Sơ mi nữ,Kaki,Xám,"XL,XXL,M",105815,371232,316,active,2026-01-01T00:00:00Z
+PROD028,SP028,Quần short Quần nam Basic 28,Quần short,Quần nam,Len 60%,Xanh navy,"S,M,XXL,XL",91210,380046,32,active,2026-01-01T00:00:00Z
+PROD029,SP029,Phụ kiện Mũ Cao cấp 29,Phụ kiện,Mũ,Cotton 100%,Trắng,"S,XL,XXL,M",92562,244617,233,active,2026-01-01T00:00:00Z
+PROD030,SP030,Quần jean Baggy Limited 30,Quần jean,Baggy,Len 60%,Vàng,"XL,M,L",278611,403937,9,inactive,2026-01-01T00:00:00Z
+PROD031,SP031,Đầm váy Maxi Cao cấp 31,Đầm váy,Maxi,Thun lạnh,Đen,"L,XXL,S",191522,580168,40,active,2026-01-01T00:00:00Z
+PROD032,SP032,Chân váy Xòe Cao cấp 32,Chân váy,Xòe,Len 60%,Xám,"L,XL,M,XXL",163698,214534,127,active,2026-01-01T00:00:00Z
+PROD033,SP033,Áo khoác Áo gió Basic 33,Áo khoác,Áo gió,Polyester 100%,Vàng,"M,L,XXL",86355,203669,64,active,2026-01-01T00:00:00Z
+PROD034,SP034,Phụ kiện Khăn Limited 34,Phụ kiện,Khăn,Kaki,Cam,"XL,XXL,S,L",70276,281060,348,active,2026-01-01T00:00:00Z
+PROD035,SP035,Áo khoác Cardigan Cao cấp 35,Áo khoác,Cardigan,Ren,Đỏ,"XL,XXL,S,M",184669,573870,261,active,2026-01-01T00:00:00Z
+PROD036,SP036,Đầm váy Sơ mi Basic 36,Đầm váy,Sơ mi,Polyester 100%,Xanh lá,"XXL,S,M,L",72825,270818,255,active,2026-01-01T00:00:00Z
+PROD037,SP037,Áo khoác Len Basic 37,Áo khoác,Len,Denim 98%,Vàng,"XL,XXL,S,L,M",225876,677268,230,active,2026-01-01T00:00:00Z
+PROD038,SP038,Đầm váy Ôm Basic 38,Đầm váy,Ôm,Polyester 100%,Đỏ,"XL,XXL,M",190755,519212,195,active,2026-01-01T00:00:00Z
+PROD039,SP039,Phụ kiện Khăn Cao cấp 39,Phụ kiện,Khăn,Denim 98%,Đen,"L,M,XXL,S",103693,369506,338,active,2026-01-01T00:00:00Z
+PROD040,SP040,Áo khoác Blazer Mới 40,Áo khoác,Blazer,Cotton 100%,Vàng,"XXL,S,XL,M,L",210184,482131,210,inactive,2026-01-01T00:00:00Z
+PROD041,SP041,Sơ mi Sơ mi công sở Cao cấp 41,Sơ mi,Sơ mi công sở,Kaki,Cam,"L,XXL,S,M",125649,197248,0,active,2026-01-01T00:00:00Z
+PROD042,SP042,Chân váy Chữ A Basic 42,Chân váy,Chữ A,Len 60%,Đen,"XL,S,L,M",145348,267675,223,active,2026-01-01T00:00:00Z
+PROD043,SP043,Phụ kiện Mũ Limited 43,Phụ kiện,Mũ,Cotton 100%,Hồng,"L,S,M,XXL",222829,319565,377,active,2026-01-01T00:00:00Z
+PROD044,SP044,Đầm váy Maxi Limited 44,Đầm váy,Maxi,Len 60%,Đen,"S,XXL,M,L",140217,627007,368,active,2026-01-01T00:00:00Z
+PROD045,SP045,Sơ mi Sơ mi công sở Mới 45,Sơ mi,Sơ mi công sở,Lụa,Be,"XXL,M,S,XL",125032,507706,183,inactive,2026-01-01T00:00:00Z
+PROD046,SP046,Quần jean Ống suông Cao cấp 46,Quần jean,Ống suông,Lụa,Xanh navy,"M,XL,S,L",148718,241318,134,active,2026-01-01T00:00:00Z
+PROD047,SP047,Quần short Quần nữ Cao cấp 47,Quần short,Quần nữ,Thun lạnh,Nâu,"L,M,XL",148859,363651,353,active,2026-01-01T00:00:00Z
+PROD048,SP048,Đầm váy Sơ mi Limited 48,Đầm váy,Sơ mi,Thun lạnh,Hồng,"M,S,XXL,XL",209258,604225,381,active,2026-01-01T00:00:00Z
+PROD049,SP049,Quần short Quần nữ Mới 49,Quần short,Quần nữ,Lụa,Đen,"S,M,L,XL",244673,670612,239,active,2026-01-01T00:00:00Z
+PROD050,SP050,Đầm váy Sơ mi Mới 50,Đầm váy,Sơ mi,Kaki,Be,"XXL,L,XL",212748,686142,255,active,2026-01-01T00:00:00Z
+PROD051,SP051,Áo khoác Len Mới 51,Áo khoác,Len,Thun lạnh,Vàng,"L,XL,XXL,S,M",104582,381604,260,active,2026-01-01T00:00:00Z
+PROD052,SP052,Áo thun Thun tay dài Limited 52,Áo thun,Thun tay dài,Denim 98%,Cam,"S,M,L,XXL,XL",298977,378729,269,active,2026-01-01T00:00:00Z
+PROD053,SP053,Sơ mi Sơ mi công sở Limited 53,Sơ mi,Sơ mi công sở,Polyester 100%,Vàng,"XXL,XL,L,S",159692,259815,260,active,2026-01-01T00:00:00Z
+PROD054,SP054,Đầm váy Suông Limited 54,Đầm váy,Suông,Ren,Tím,"L,XXL,M,XL,S",105041,422914,252,active,2026-01-01T00:00:00Z
+PROD055,SP055,Áo thun Thun tay dài Cao cấp 55,Áo thun,Thun tay dài,Polyester 100%,Be,"M,XXL,L",199513,288974,412,active,2026-01-01T00:00:00Z
+PROD056,SP056,Quần jean Baggy Limited 56,Quần jean,Baggy,Lụa,Be,"XL,XXL,L,M",50149,301688,158,active,2026-01-01T00:00:00Z
+PROD057,SP057,Quần jean Baggy Cao cấp 57,Quần jean,Baggy,Thun lạnh,Vàng,"XXL,L,M",204882,567185,218,active,2026-01-01T00:00:00Z
+PROD058,SP058,Đầm váy Ôm Limited 58,Đầm váy,Ôm,Len 60%,Đỏ,"XL,XXL,M",275525,642818,395,active,2026-01-01T00:00:00Z
+PROD059,SP059,Áo thun Thun tay dài Mới 59,Áo thun,Thun tay dài,Ren,Xanh navy,"XL,M,S,L,XXL",58517,538551,18,active,2026-01-01T00:00:00Z
+PROD060,SP060,Chân váy Bút chì Mới 60,Chân váy,Bút chì,Polyester 100%,Đỏ,"M,S,L,XL",231066,394721,296,inactive,2026-01-01T00:00:00Z
+PROD061,SP061,Áo khoác Blazer Limited 61,Áo khoác,Blazer,Cotton 100%,Vàng,"M,L,XXL,XL",227569,331617,22,active,2026-01-01T00:00:00Z
+PROD062,SP062,Áo thun Thun tay dài Cao cấp 62,Áo thun,Thun tay dài,Denim 98%,Xanh lá,"S,XL,XXL,L,M",185577,510596,357,active,2026-01-01T00:00:00Z
+PROD063,SP063,Chân váy Xòe Basic 63,Chân váy,Xòe,Polyester 100%,Hồng,"XXL,S,M,L,XL",190547,509938,161,active,2026-01-01T00:00:00Z
+PROD064,SP064,Đầm váy Sơ mi Limited 64,Đầm váy,Sơ mi,Denim 98%,Đỏ,"XXL,S,L,M",81214,318346,145,active,2026-01-01T00:00:00Z
+PROD065,SP065,Quần short Quần nữ Mới 65,Quần short,Quần nữ,Ren,Trắng,"XL,L,S",206445,427073,32,active,2026-01-01T00:00:00Z
+PROD066,SP066,Đồ bộ Pyjama Limited 66,Đồ bộ,Pyjama,Denim 98%,Xanh navy,"L,M,XL,S",138804,504106,263,active,2026-01-01T00:00:00Z
+PROD067,SP067,Sơ mi Sơ mi nam Limited 67,Sơ mi,Sơ mi nam,Ren,Trắng,"M,S,XL,XXL,L",64966,301027,188,active,2026-01-01T00:00:00Z
+PROD068,SP068,Chân váy Bút chì Limited 68,Chân váy,Bút chì,Polyester 100%,Be,"XL,S,L",147791,419032,398,active,2026-01-01T00:00:00Z
+PROD069,SP069,Phụ kiện Mũ Cao cấp 69,Phụ kiện,Mũ,Lụa,Đen,"L,XXL,S",77397,377548,149,active,2026-01-01T00:00:00Z
+PROD070,SP070,Áo thun Cổ tròn Limited 70,Áo thun,Cổ tròn,Ren,Đỏ,"M,L,XXL,XL,S",110234,187927,344,active,2026-01-01T00:00:00Z
+PROD071,SP071,Áo thun Cổ tròn Mới 71,Áo thun,Cổ tròn,Ren,Tím,"XL,S,XXL,M,L",213066,556501,87,active,2026-01-01T00:00:00Z
+PROD072,SP072,Sơ mi Sơ mi nam Mới 72,Sơ mi,Sơ mi nam,Cotton 100%,Nâu,"M,S,L",178587,502195,156,active,2026-01-01T00:00:00Z
+PROD073,SP073,Chân váy Bút chì Mới 73,Chân váy,Bút chì,Denim 98%,Xanh lá,"L,XXL,S",165125,527992,431,active,2026-01-01T00:00:00Z
+PROD074,SP074,Quần jean Skinny Cao cấp 74,Quần jean,Skinny,Len 60%,Xanh lá,"XL,XXL,L,M,S",174095,590000,342,active,2026-01-01T00:00:00Z
+PROD075,SP075,Chân váy Xếp ly Cao cấp 75,Chân váy,Xếp ly,Ren,Trắng,"XXL,S,L",230239,336346,169,inactive,2026-01-01T00:00:00Z
+PROD076,SP076,Quần jean Ống côn Limited 76,Quần jean,Ống côn,Polyester 100%,Vàng,"XXL,XL,M,L,S",79226,562046,175,active,2026-01-01T00:00:00Z
+PROD077,SP077,Sơ mi Sơ mi nữ Mới 77,Sơ mi,Sơ mi nữ,Ren,Cam,"M,XL,S",102867,248241,77,inactive,2026-01-01T00:00:00Z
+PROD078,SP078,Quần short Quần nam Cao cấp 78,Quần short,Quần nam,Len 60%,Đen,"L,XXL,S",290108,559431,135,active,2026-01-01T00:00:00Z
+PROD079,SP079,Đồ bộ Thể thao Limited 79,Đồ bộ,Thể thao,Len 60%,Đỏ,"M,S,XXL,XL",289040,375967,0,active,2026-01-01T00:00:00Z
+PROD080,SP080,Sơ mi Sơ mi nam Basic 80,Sơ mi,Sơ mi nam,Thun lạnh,Đỏ,"XXL,S,XL,L",235660,703693,129,active,2026-01-01T00:00:00Z
+PROD081,SP081,Áo khoác Cardigan Basic 81,Áo khoác,Cardigan,Kaki,Xám,"XL,M,L,XXL",199859,682892,411,active,2026-01-01T00:00:00Z
+PROD082,SP082,Phụ kiện Mũ Basic 82,Phụ kiện,Mũ,Lụa,Xanh lá,"M,XXL,S,L,XL",293532,614446,111,active,2026-01-01T00:00:00Z
+PROD083,SP083,Phụ kiện Túi xách Mới 83,Phụ kiện,Túi xách,Len 60%,Xám,"XL,S,XXL,L,M",101079,198041,390,active,2026-01-01T00:00:00Z
+PROD084,SP084,Quần short Quần nam Limited 84,Quần short,Quần nam,Lụa,Cam,"S,M,XXL,XL,L",108122,526981,282,active,2026-01-01T00:00:00Z
+PROD085,SP085,Đồ bộ Pyjama Limited 85,Đồ bộ,Pyjama,Denim 98%,Trắng,"XL,M,L,S",104827,426554,286,active,2026-01-01T00:00:00Z
+PROD086,SP086,Phụ kiện Khăn Mới 86,Phụ kiện,Khăn,Polyester 100%,Đen,"XXL,XL,S",240687,405046,147,active,2026-01-01T00:00:00Z
+PROD087,SP087,Quần jean Skinny Cao cấp 87,Quần jean,Skinny,Denim 98%,Vàng,"S,XXL,XL",140016,593122,404,active,2026-01-01T00:00:00Z
+PROD088,SP088,Áo khoác Len Limited 88,Áo khoác,Len,Thun lạnh,Xám,"XXL,L,M,XL,S",117907,207113,255,active,2026-01-01T00:00:00Z
+PROD089,SP089,Đồ bộ Pyjama Basic 89,Đồ bộ,Pyjama,Cotton 100%,Cam,"S,L,XL,M,XXL",216646,628789,379,active,2026-01-01T00:00:00Z
+PROD090,SP090,Quần short Quần nam Cao cấp 90,Quần short,Quần nam,Polyester 100%,Cam,"XXL,S,L,M,XL",209240,456834,189,active,2026-01-01T00:00:00Z
+PROD091,SP091,Đồ bộ Pyjama Basic 91,Đồ bộ,Pyjama,Len 60%,Nâu,"S,M,XL",140534,514458,174,active,2026-01-01T00:00:00Z
+PROD092,SP092,Quần short Quần nam Basic 92,Quần short,Quần nam,Denim 98%,Cam,"S,XXL,M,XL,L",150924,245331,235,active,2026-01-01T00:00:00Z
+PROD093,SP093,Áo thun Cổ tim Cao cấp 93,Áo thun,Cổ tim,Len 60%,Đen,"XXL,XL,M,S",258027,738180,239,active,2026-01-01T00:00:00Z
+PROD094,SP094,Chân váy Bút chì Mới 94,Chân váy,Bút chì,Thun lạnh,Xanh navy,"S,M,XL",109791,196724,0,active,2026-01-01T00:00:00Z
+PROD095,SP095,Đầm váy Suông Cao cấp 95,Đầm váy,Suông,Len 60%,Be,"XXL,L,S,XL",125105,516935,227,active,2026-01-01T00:00:00Z
+PROD096,SP096,Quần jean Ống suông Mới 96,Quần jean,Ống suông,Len 60%,Nâu,"L,XXL,M",249389,507314,332,active,2026-01-01T00:00:00Z
+PROD097,SP097,Áo thun Cổ tim Mới 97,Áo thun,Cổ tim,Kaki,Xanh lá,"XXL,S,XL,L",161259,455047,115,inactive,2026-01-01T00:00:00Z
+PROD098,SP098,Quần short Quần nam Basic 98,Quần short,Quần nam,Len 60%,Xanh lá,"L,XXL,M,S,XL",239903,349122,148,active,2026-01-01T00:00:00Z
+PROD099,SP099,Áo khoác Áo gió Cao cấp 99,Áo khoác,Áo gió,Polyester 100%,Cam,"XXL,XL,M",239574,476159,203,active,2026-01-01T00:00:00Z
+PROD100,SP100,Phụ kiện Thắt lưng Cao cấp 100,Phụ kiện,Thắt lưng,Denim 98%,Xám,"L,S,XXL,M,XL",171074,313227,52,active,2026-01-01T00:00:00Z

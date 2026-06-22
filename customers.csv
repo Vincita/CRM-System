@@ -1,0 +1,301 @@
+﻿_id,name,email,phone,gender,birth_date,province,district,address,registered_at,segment,lifetime_value,total_orders,last_order_date
+CUST0001,Nguyễn Thế Anh,nguyễn.thế.anh1996@outlook.com,0226433764,Nam,1996-06-28,Hồ Chí Minh,Thủ Đức,"Số 32, Ngõ Cách mạng tháng 8",2026-01-07T21:01:31Z,VIP,31149734,19,2026-06-30
+CUST0002,Trần Thu Trang,trần.thu.trang2001@yahoo.com,0216818071,Nữ,2001-06-28,Quảng Ninh,Móng Cái,"Số 27, Ngõ Hùng Vương",2025-12-01T23:42:32Z,Bạc,13545092,7,2026-06-29
+CUST0003,Ngô Ngọc Linh,ngô.ngọc.linh2000@yahoo.com,0832608088,Nữ,2000-12-02,Quảng Ninh,Hạ Long,"Số 81, Phố Trần Hưng Đạo",2025-11-10T23:44:49Z,Bạc,3952319,2,2026-05-20
+CUST0004,Dương Minh Hoa,dương.minh.hoa2002@outlook.com,0120891829,Nữ,2002-07-20,Đà Nẵng,Ngũ Hành Sơn,"Số 74, Ngõ Hùng Vương",2026-02-23T21:26:18Z,Vàng,15416500,8,2026-06-22
+CUST0005,Đỗ Thu Lan,đỗ.thu.lan1999@yahoo.com,0350000714,Nữ,1999-03-07,Hải Phòng,Lê Chân,"Số 198, Đường Nguyễn Trãi",2026-03-08T00:44:28Z,Thường,7342937,4,2026-06-22
+CUST0006,Bùi Thế Hoa,bùi.thế.hoa2004@email.com,0632636890,Nam,2004-02-11,Đà Nẵng,Ngũ Hành Sơn,"Số 146, Phố Cách mạng tháng 8",2025-12-22T02:51:55Z,VIP,27775284,14,2026-06-26
+CUST0007,Vũ Ngọc Hoa,vũ.ngọc.hoa1994@email.com,0485684204,Nữ,1994-08-14,Hải Dương,Nam Sách,"Số 185, Đường Cách mạng tháng 8",2025-11-10T20:15:02Z,Thường,4517744,2,2026-04-10
+CUST0008,Hoàng Minh Mai,hoàng.minh.mai2003@outlook.com,0959818358,Nam,2003-04-25,Quảng Ninh,Móng Cái,"Số 93, Đường Cách mạng tháng 8",2025-12-01T11:47:05Z,Thường,3770809,2,2026-05-15
+CUST0009,Đặng Văn Thảo,đặng.văn.thảo1995@outlook.com,0695465339,Nam,1995-04-17,Cần Thơ,Phong Điền,"Số 34, Ngõ Lê Lợi",2026-01-14T20:10:20Z,Bạc,5932646,4,2026-06-07
+CUST0010,Trần Minh Anh,trần.minh.anh1997@yahoo.com,0173674504,Nam,1997-08-24,Hải Phòng,Kiến An,"Số 6, Ngõ Nguyễn Trãi",2026-03-24T17:33:10Z,Vàng,12006301,7,2026-06-21
+CUST0011,Đặng Phương Thảo,đặng.phương.thảo1998@yahoo.com,0798579167,Nữ,1998-06-14,Hải Phòng,Ngô Quyền,"Số 84, Đường Hùng Vương",2026-01-29T09:43:11Z,Bạc,18547423,7,2026-06-22
+CUST0012,Dương Quang Hùng,dương.quang.hùng1998@email.com,0726441085,Nam,1998-08-03,Quảng Ninh,Cẩm Phả,"Số 11, Phố Nguyễn Trãi",2026-03-24T22:34:57Z,VIP,43420171,23,2026-06-30
+CUST0013,Nguyễn Hữu Hùng,nguyễn.hữu.hùng2006@yahoo.com,0448086967,Nam,2006-05-01,Đà Nẵng,Liên Chiểu,"Số 145, Đường Trần Hưng Đạo",2026-03-26T18:09:48Z,Bạc,9495890,5,2026-06-07
+CUST0014,Dương Gia Vân,dương.gia.vân2004@gmail.com,0328067221,Nam,2004-06-22,Hải Phòng,Đồ Sơn,"Số 167, Ngõ Lê Lợi",2026-02-09T16:40:03Z,Thường,5250261,3,2026-04-23
+CUST0015,Vũ Thùy Thảo,vũ.thùy.thảo1992@email.com,0732533252,Nữ,1992-03-17,Hà Nội,Cầu Giấy,"Số 56, Ngõ Trần Hưng Đạo",2025-12-06T01:44:50Z,Bạc,8350054,5,2026-06-25
+CUST0016,Hoàng Phương Vân,hoàng.phương.vân1998@email.com,0636411897,Nữ,1998-09-17,Hải Dương,Thanh Hà,"Số 72, Phố Lê Lợi",2025-12-23T22:21:43Z,VIP,32506975,15,2026-06-29
+CUST0017,Trần Thị Nam,trần.thị.nam2000@yahoo.com,0174489708,Nữ,2000-10-28,Hà Nội,Đống Đa,"Số 38, Ngõ Nguyễn Trãi",2026-03-22T07:35:52Z,VIP,29538531,15,2026-06-26
+CUST0018,Vũ Hữu Linh,vũ.hữu.linh2001@outlook.com,0626373079,Nam,2001-03-12,Hải Phòng,Đồ Sơn,"Số 183, Phố Hùng Vương",2026-01-17T15:54:36Z,Thường,5517817,3,2026-06-09
+CUST0019,Hồ Phương Tú,hồ.phương.tú2003@outlook.com,0357672150,Nữ,2003-12-23,Thừa Thiên Huế,Hương Thủy,"Số 156, Ngõ Trần Hưng Đạo",2026-03-03T16:22:14Z,Bạc,14832115,8,2026-06-10
+CUST0020,Ngô Văn Châu,ngô.văn.châu1996@yahoo.com,0167393854,Nam,1996-09-01,Hải Phòng,Hồng Bàng,"Số 128, Phố Cách mạng tháng 8",2025-12-13T08:19:09Z,VIP,23726282,18,2026-06-20
+CUST0021,Hoàng Hữu Lan,hoàng.hữu.lan2001@yahoo.com,0213949071,Nam,2001-05-07,Thừa Thiên Huế,Hương Thủy,"Số 17, Phố Cách mạng tháng 8",2026-02-24T19:00:31Z,Bạc,14429666,7,2026-06-10
+CUST0022,Nguyễn Gia Bình,nguyễn.gia.bình1997@gmail.com,0981959960,Nam,1997-02-01,Quảng Ninh,Cẩm Phả,"Số 123, Phố Trần Hưng Đạo",2025-12-06T00:34:14Z,Thường,5080178,2,2026-04-22
+CUST0023,Phạm Hữu Linh,phạm.hữu.linh2003@email.com,0963664845,Nam,2003-09-01,Hải Phòng,Kiến An,"Số 82, Phố Lê Lợi",2025-12-19T06:15:48Z,Vàng,10386620,8,2026-06-28
+CUST0024,Dương Thị Tú,dương.thị.tú1994@gmail.com,0414823983,Nữ,1994-11-28,Đà Nẵng,Thanh Khê,"Số 57, Đường Cách mạng tháng 8",2026-03-22T05:14:05Z,Thường,8068367,5,2026-06-28
+CUST0025,Vũ Thế Thủy,vũ.thế.thủy1999@yahoo.com,0188104324,Nam,1999-08-01,Thừa Thiên Huế,Hương Trà,"Số 157, Đường Lê Lợi",2026-01-30T04:59:51Z,Thường,3530588,3,2026-06-30
+CUST0026,Hồ Thế Mai,hồ.thế.mai2003@gmail.com,0511332076,Nam,2003-06-07,Quảng Ninh,Hạ Long,"Số 51, Ngõ Cách mạng tháng 8",2026-03-29T16:13:10Z,Thường,3123684,2,2026-06-16
+CUST0027,Phạm Thùy Mai,phạm.thùy.mai1990@yahoo.com,0987954374,Nữ,1990-03-03,Đà Nẵng,Liên Chiểu,"Số 84, Ngõ Trần Hưng Đạo",2026-03-29T16:16:52Z,Bạc,4318351,2,2026-04-25
+CUST0028,Dương Ngọc Nam,dương.ngọc.nam2002@gmail.com,0794248262,Nữ,2002-09-27,Quảng Ninh,Móng Cái,"Số 149, Đường Trần Hưng Đạo",2025-12-16T07:50:52Z,Bạc,13801875,7,2026-05-22
+CUST0029,Ngô Hồng Linh,ngô.hồng.linh2002@gmail.com,0731110725,Nữ,2002-08-28,Đà Nẵng,Hải Châu,"Số 16, Ngõ Cách mạng tháng 8",2026-03-05T17:17:11Z,Thường,2494340,2,2026-05-13
+CUST0030,Trần Phương Trang,trần.phương.trang2003@outlook.com,0697808029,Nữ,2003-03-01,Đà Nẵng,Hải Châu,"Số 142, Đường Cách mạng tháng 8",2026-03-10T12:39:04Z,Bạc,8678921,6,2026-06-13
+CUST0031,Dương Hữu Mai,dương.hữu.mai1993@outlook.com,0375511753,Nam,1993-08-02,Hà Nội,Cầu Giấy,"Số 179, Đường Trần Hưng Đạo",2025-11-03T23:04:39Z,Vàng,17992014,13,2026-06-28
+CUST0032,Đỗ Thu Thảo,đỗ.thu.thảo2002@outlook.com,0130935526,Nữ,2002-07-25,Bắc Ninh,Bắc Ninh,"Số 33, Đường Lê Lợi",2026-02-26T10:38:42Z,Vàng,32548765,13,2026-06-17
+CUST0033,Hoàng Thế Châu,hoàng.thế.châu2006@yahoo.com,0732634043,Nam,2006-10-04,Bắc Ninh,Tiên Du,"Số 167, Đường Cách mạng tháng 8",2025-11-09T06:11:44Z,Thường,4967276,3,2026-05-24
+CUST0034,Ngô Thị Dũng,ngô.thị.dũng2000@gmail.com,0186151167,Nữ,2000-10-11,Đà Nẵng,Liên Chiểu,"Số 59, Đường Nguyễn Trãi",2026-02-14T21:05:55Z,Bạc,1887771,3,2026-06-11
+CUST0035,Trần Thế Bình,trần.thế.bình2000@outlook.com,0620052069,Nam,2000-08-25,Đà Nẵng,Hải Châu,"Số 62, Ngõ Hùng Vương",2025-11-09T05:03:00Z,Vàng,14565118,7,2026-06-08
+CUST0036,Phạm Hồng Mai,phạm.hồng.mai2001@email.com,0395363701,Nữ,2001-04-07,Hải Dương,Chí Linh,"Số 141, Đường Lê Lợi",2026-02-16T05:52:44Z,Vàng,24209477,13,2026-06-25
+CUST0037,Đỗ Ngọc Dũng,đỗ.ngọc.dũng1993@gmail.com,0855341604,Nữ,1993-09-28,Hà Nội,Cầu Giấy,"Số 122, Đường Cách mạng tháng 8",2025-12-25T14:20:12Z,VIP,36149747,17,2026-06-22
+CUST0038,Đặng Phương Phúc,đặng.phương.phúc2005@email.com,0995657675,Nữ,2005-07-16,Đà Nẵng,Liên Chiểu,"Số 4, Ngõ Nguyễn Trãi",2026-02-06T11:59:01Z,VIP,47345870,22,2026-06-29
+CUST0039,Phạm Phương Hoa,phạm.phương.hoa2007@yahoo.com,0789584638,Nữ,2007-03-14,Quảng Ninh,Hạ Long,"Số 79, Phố Hùng Vương",2026-03-05T23:41:23Z,Vàng,14154527,10,2026-06-26
+CUST0040,Nguyễn Công Bình,nguyễn.công.bình2005@yahoo.com,0510145027,Nam,2005-06-09,Hà Nội,Ba Đình,"Số 2, Ngõ Lê Lợi",2026-03-03T08:14:06Z,Thường,1985835,1,2026-06-12
+CUST0041,Nguyễn Minh Phúc,nguyễn.minh.phúc2001@email.com,0974482175,Nữ,2001-03-21,Thừa Thiên Huế,Huế,"Số 2, Phố Trần Hưng Đạo",2026-01-02T12:33:49Z,Bạc,10146778,7,2026-06-27
+CUST0042,Hồ Hồng Hoa,hồ.hồng.hoa2005@outlook.com,0878184527,Nữ,2005-05-06,Bình Dương,Bến Cát,"Số 160, Phố Lê Lợi",2026-01-11T01:13:26Z,Bạc,4534461,4,2026-05-17
+CUST0043,Nguyễn Gia Dũng,nguyễn.gia.dũng1990@gmail.com,0326256911,Nam,1990-10-28,Hải Phòng,Lê Chân,"Số 167, Ngõ Hùng Vương",2026-02-21T06:13:52Z,Thường,1748081,1,2026-06-21
+CUST0044,Lê Gia Nam,lê.gia.nam2007@yahoo.com,0810092600,Nam,2007-08-28,Hà Nội,Cầu Giấy,"Số 140, Phố Hùng Vương",2026-01-16T14:20:34Z,Bạc,9397300,5,2026-06-03
+CUST0045,Nguyễn Thế Bình,nguyễn.thế.bình1997@outlook.com,0535322749,Nam,1997-06-12,Bắc Ninh,Tiên Du,"Số 178, Ngõ Nguyễn Trãi",2025-11-22T22:22:25Z,Thường,4579778,4,2026-05-27
+CUST0046,Lê Hồng Châu,lê.hồng.châu1994@yahoo.com,0648492068,Nữ,1994-05-08,Hải Dương,Nam Sách,"Số 165, Đường Nguyễn Trãi",2026-02-12T04:36:56Z,Vàng,21197237,10,2026-06-27
+CUST0047,Hồ Thu Hoa,hồ.thu.hoa2002@gmail.com,0111529727,Nữ,2002-12-18,Hà Nội,Đống Đa,"Số 30, Ngõ Cách mạng tháng 8",2026-02-21T08:43:00Z,VIP,28210900,17,2026-06-20
+CUST0048,Hồ Thu Lan,hồ.thu.lan1998@yahoo.com,0296280345,Nữ,1998-02-21,Thừa Thiên Huế,Hương Trà,"Số 35, Đường Trần Hưng Đạo",2025-12-31T16:25:07Z,Bạc,13417726,6,2026-06-22
+CUST0049,Hồ Hữu Anh,hồ.hữu.anh2005@email.com,0310225454,Nam,2005-06-02,Hải Phòng,Đồ Sơn,"Số 131, Ngõ Nguyễn Trãi",2025-12-26T18:48:20Z,Thường,1692244,2,2026-04-19
+CUST0050,Phạm Phương Bình,phạm.phương.bình2002@outlook.com,0144853181,Nữ,2002-05-17,Hải Phòng,Kiến An,"Số 173, Đường Lê Lợi",2026-02-28T04:13:23Z,Vàng,7991899,3,2026-05-17
+CUST0051,Vũ Ngọc Hoa,vũ.ngọc.hoa2003@yahoo.com,0186176379,Nữ,2003-07-14,Hồ Chí Minh,Quận 3,"Số 130, Ngõ Nguyễn Trãi",2026-02-17T07:42:19Z,Vàng,21122478,14,2026-06-28
+CUST0052,Ngô Minh Vân,ngô.minh.vân2001@email.com,0454092482,Nữ,2001-12-24,Hà Nội,Long Biên,"Số 5, Phố Hùng Vương",2026-03-26T08:58:28Z,Vàng,16418768,7,2026-06-23
+CUST0053,Ngô Minh Lan,ngô.minh.lan2002@email.com,0734895512,Nữ,2002-09-21,Bắc Ninh,Từ Sơn,"Số 115, Phố Trần Hưng Đạo",2025-11-16T16:02:23Z,VIP,29490144,17,2026-06-09
+CUST0054,Phạm Đức Phúc,phạm.đức.phúc2000@gmail.com,0740907506,Nam,2000-01-05,Bình Dương,Thuận An,"Số 7, Đường Cách mạng tháng 8",2025-11-04T01:59:18Z,Bạc,8790809,6,2026-06-28
+CUST0055,Trần Hồng Hùng,trần.hồng.hùng2000@email.com,0570005361,Nữ,2000-08-11,Hải Phòng,Kiến An,"Số 167, Ngõ Hùng Vương",2026-02-13T01:30:28Z,Vàng,23470172,12,2026-06-25
+CUST0056,Đỗ Văn Bình,đỗ.văn.bình1990@email.com,0972550555,Nam,1990-10-20,Hồ Chí Minh,Quận 7,"Số 24, Đường Cách mạng tháng 8",2026-02-11T06:23:37Z,Thường,3425750,1,2026-04-23
+CUST0057,Nguyễn Quang Hoa,nguyễn.quang.hoa1999@gmail.com,0853549968,Nam,1999-05-25,Thừa Thiên Huế,Phú Vang,"Số 72, Phố Hùng Vương",2025-11-04T19:25:51Z,Thường,456554,1,2026-04-25
+CUST0058,Nguyễn Thị Vân,nguyễn.thị.vân1990@gmail.com,0783890887,Nữ,1990-01-26,Quảng Ninh,Móng Cái,"Số 102, Ngõ Lê Lợi",2025-11-12T01:39:30Z,Thường,4509217,4,2026-06-10
+CUST0059,Dương Minh Linh,dương.minh.linh2003@outlook.com,0575890569,Nam,2003-03-22,Đà Nẵng,Hải Châu,"Số 199, Đường Cách mạng tháng 8",2025-12-28T16:02:08Z,Bạc,7794166,6,2026-05-14
+CUST0060,Ngô Đức Hoa,ngô.đức.hoa2004@gmail.com,0132196206,Nam,2004-12-06,Hồ Chí Minh,Quận Tân Bình,"Số 43, Đường Cách mạng tháng 8",2026-03-12T13:25:03Z,VIP,30167989,18,2026-06-30
+CUST0061,Hồ Minh Trang,hồ.minh.trang1999@gmail.com,0238852523,Nam,1999-05-04,Quảng Ninh,Hạ Long,"Số 115, Ngõ Nguyễn Trãi",2025-12-25T03:53:19Z,Thường,5135316,3,2026-06-07
+CUST0062,Đặng Thế Mai,đặng.thế.mai2006@email.com,0178785077,Nam,2006-03-23,Hà Nội,Cầu Giấy,"Số 36, Đường Cách mạng tháng 8",2026-03-03T08:30:42Z,Thường,1593047,2,2026-06-17
+CUST0063,Trần Thị Hùng,trần.thị.hùng2006@email.com,0968089000,Nữ,2006-12-10,Đà Nẵng,Ngũ Hành Sơn,"Số 35, Đường Cách mạng tháng 8",2026-03-01T08:36:33Z,Thường,6313168,2,2026-06-03
+CUST0064,Bùi Ngọc Lan,bùi.ngọc.lan2006@gmail.com,0614519211,Nữ,2006-09-02,Đà Nẵng,Ngũ Hành Sơn,"Số 66, Đường Nguyễn Trãi",2026-03-29T20:50:25Z,Thường,4225991,4,2026-06-18
+CUST0065,Lê Thùy Thảo,lê.thùy.thảo2008@email.com,0365559820,Nữ,2008-11-04,Quảng Ninh,Đông Triều,"Số 38, Phố Lê Lợi",2025-11-02T23:03:39Z,VIP,26975512,16,2026-06-23
+CUST0066,Nguyễn Minh Lan,nguyễn.minh.lan1997@email.com,0879197341,Nữ,1997-11-22,Bắc Ninh,Từ Sơn,"Số 74, Ngõ Hùng Vương",2026-02-23T00:07:03Z,Vàng,22395325,8,2026-06-24
+CUST0067,Phạm Thanh Linh,phạm.thanh.linh2002@yahoo.com,0959878846,Nữ,2002-08-05,Quảng Ninh,Đông Triều,"Số 177, Phố Cách mạng tháng 8",2026-02-22T11:41:45Z,Vàng,32604323,14,2026-06-25
+CUST0068,Trần Công Trang,trần.công.trang2003@yahoo.com,0251556667,Nam,2003-01-09,Đà Nẵng,Thanh Khê,"Số 40, Ngõ Nguyễn Trãi",2026-03-04T07:23:45Z,VIP,36750526,14,2026-06-28
+CUST0069,Bùi Ngọc Linh,bùi.ngọc.linh2003@outlook.com,0872812734,Nữ,2003-08-17,Bắc Ninh,Quế Võ,"Số 50, Phố Lê Lợi",2026-01-28T10:52:17Z,Vàng,32173928,14,2026-06-25
+CUST0070,Lê Quang Châu,lê.quang.châu2004@gmail.com,0543033260,Nam,2004-04-08,Bình Dương,Dĩ An,"Số 145, Đường Cách mạng tháng 8",2025-12-20T04:04:01Z,Thường,6577568,4,2026-06-14
+CUST0071,Nguyễn Thu Tú,nguyễn.thu.tú2007@outlook.com,0558366264,Nữ,2007-01-15,Hà Nội,Ba Đình,"Số 112, Đường Trần Hưng Đạo",2026-01-16T05:47:27Z,Vàng,16717946,9,2026-06-23
+CUST0072,Dương Văn Trang,dương.văn.trang1994@gmail.com,0254348241,Nam,1994-02-19,Hải Phòng,Hồng Bàng,"Số 118, Phố Trần Hưng Đạo",2026-03-17T21:00:08Z,Thường,4478374,4,2026-06-05
+CUST0073,Lê Thanh Dũng,lê.thanh.dũng1992@outlook.com,0561179317,Nữ,1992-06-04,Bắc Ninh,Từ Sơn,"Số 28, Ngõ Nguyễn Trãi",2025-11-10T12:44:28Z,Thường,1927266,1,2026-04-03
+CUST0074,Hoàng Quang Vân,hoàng.quang.vân1997@yahoo.com,0278840929,Nam,1997-12-22,Bắc Ninh,Bắc Ninh,"Số 103, Ngõ Cách mạng tháng 8",2025-12-08T15:08:10Z,Vàng,17082717,12,2026-06-27
+CUST0075,Đỗ Quang Tú,đỗ.quang.tú1996@email.com,0221600343,Nam,1996-11-02,Bắc Ninh,Từ Sơn,"Số 129, Ngõ Trần Hưng Đạo",2026-02-07T10:41:33Z,Bạc,9399284,6,2026-06-27
+CUST0076,Đỗ Đức Châu,đỗ.đức.châu1993@email.com,0949967943,Nam,1993-12-21,Cần Thơ,Bình Thủy,"Số 170, Đường Hùng Vương",2026-02-11T04:59:52Z,Bạc,22355857,8,2026-06-23
+CUST0077,Bùi Quang Thảo,bùi.quang.thảo2000@outlook.com,0142064556,Nam,2000-08-20,Đà Nẵng,Ngũ Hành Sơn,"Số 60, Phố Hùng Vương",2025-11-23T08:39:34Z,Vàng,13752704,7,2026-06-14
+CUST0078,Vũ Quang Phúc,vũ.quang.phúc2003@gmail.com,0232347861,Nam,2003-04-05,Cần Thơ,Thốt Nốt,"Số 20, Đường Lê Lợi",2026-01-08T13:17:47Z,Vàng,17856228,10,2026-06-26
+CUST0079,Hồ Văn Thảo,hồ.văn.thảo1991@email.com,0926610903,Nam,1991-12-18,Quảng Ninh,Móng Cái,"Số 151, Đường Lê Lợi",2025-12-07T18:40:23Z,Bạc,6906709,4,2026-06-14
+CUST0080,Ngô Gia Nam,ngô.gia.nam2005@gmail.com,0289318711,Nam,2005-09-12,Bắc Ninh,Từ Sơn,"Số 57, Phố Cách mạng tháng 8",2025-12-05T01:10:01Z,Thường,2575904,1,2026-04-19
+CUST0081,Nguyễn Văn Lan,nguyễn.văn.lan1995@email.com,0938399038,Nam,1995-04-12,Bắc Ninh,Bắc Ninh,"Số 90, Đường Hùng Vương",2026-02-25T19:22:00Z,Bạc,9572618,6,2026-06-22
+CUST0082,Dương Đức Phúc,dương.đức.phúc1995@email.com,0853879205,Nam,1995-09-25,Quảng Ninh,Cẩm Phả,"Số 144, Ngõ Nguyễn Trãi",2026-02-03T07:25:47Z,VIP,30838846,18,2026-06-23
+CUST0083,Đỗ Thế Phúc,đỗ.thế.phúc1995@yahoo.com,0935042101,Nam,1995-07-19,Thừa Thiên Huế,Phong Điền,"Số 33, Phố Nguyễn Trãi",2025-11-03T20:46:04Z,Vàng,17847314,13,2026-05-30
+CUST0084,Lê Thu Thủy,lê.thu.thủy2002@email.com,0773624776,Nữ,2002-12-05,Cần Thơ,Ninh Kiều,"Số 6, Ngõ Cách mạng tháng 8",2026-02-24T08:58:00Z,Bạc,10429419,7,2026-06-24
+CUST0085,Đặng Ngọc Châu,đặng.ngọc.châu2006@outlook.com,0227100245,Nữ,2006-08-20,Quảng Ninh,Uông Bí,"Số 197, Đường Lê Lợi",2025-11-28T11:13:56Z,Thường,1088613,1,2026-05-07
+CUST0086,Ngô Đức Anh,ngô.đức.anh2001@yahoo.com,0793557748,Nam,2001-06-05,Hồ Chí Minh,Quận 7,"Số 104, Phố Lê Lợi",2025-11-11T04:01:13Z,Thường,6422576,4,2026-06-18
+CUST0087,Lê Quang Phúc,lê.quang.phúc2000@gmail.com,0357976599,Nam,2000-08-13,Hải Phòng,Lê Chân,"Số 15, Phố Lê Lợi",2026-02-22T02:22:41Z,Thường,3426251,3,2026-06-26
+CUST0088,Đặng Thùy Linh,đặng.thùy.linh1998@yahoo.com,0544696774,Nữ,1998-04-28,Bình Dương,Dĩ An,"Số 187, Ngõ Lê Lợi",2026-02-27T13:47:35Z,Bạc,13127133,7,2026-06-24
+CUST0089,Hồ Đức Trang,hồ.đức.trang2001@gmail.com,0327022323,Nam,2001-04-12,Hải Dương,Thanh Hà,"Số 156, Phố Cách mạng tháng 8",2025-11-03T05:46:15Z,Vàng,14138872,10,2026-06-28
+CUST0090,Lê Gia Hoa,lê.gia.hoa2004@email.com,0631329744,Nam,2004-06-13,Đà Nẵng,Hải Châu,"Số 190, Đường Lê Lợi",2026-02-17T04:17:23Z,Bạc,8811436,7,2026-06-19
+CUST0091,Lê Ngọc Lan,lê.ngọc.lan2002@yahoo.com,0811785703,Nữ,2002-12-04,Quảng Ninh,Cẩm Phả,"Số 159, Đường Trần Hưng Đạo",2026-01-29T21:07:54Z,Thường,2662442,1,2026-05-09
+CUST0092,Hoàng Thế Phúc,hoàng.thế.phúc2008@gmail.com,0258414161,Nam,2008-11-20,Cần Thơ,Bình Thủy,"Số 115, Đường Cách mạng tháng 8",2025-12-07T12:47:48Z,Thường,6492293,4,2026-06-10
+CUST0093,Đỗ Văn Dũng,đỗ.văn.dũng2005@yahoo.com,0611232998,Nam,2005-10-10,Bình Dương,Tân Uyên,"Số 166, Phố Hùng Vương",2026-03-27T08:50:04Z,VIP,22967619,14,2026-06-26
+CUST0094,Phạm Phương Châu,phạm.phương.châu2003@email.com,0914640210,Nữ,2003-01-17,Hà Nội,Hai Bà Trưng,"Số 125, Phố Cách mạng tháng 8",2025-12-17T17:31:42Z,Thường,1015053,1,2026-04-24
+CUST0095,Phạm Thế Linh,phạm.thế.linh2004@gmail.com,0377442586,Nam,2004-09-20,Thừa Thiên Huế,Huế,"Số 54, Phố Nguyễn Trãi",2025-12-30T05:07:11Z,Bạc,9683132,5,2026-06-30
+CUST0096,Vũ Thế Thủy,vũ.thế.thủy1991@outlook.com,0517129647,Nam,1991-02-15,Quảng Ninh,Uông Bí,"Số 83, Phố Nguyễn Trãi",2026-02-07T10:46:17Z,Thường,1296539,1,2026-05-24
+CUST0097,Ngô Hữu Châu,ngô.hữu.châu1999@outlook.com,0585855944,Nam,1999-12-24,Quảng Ninh,Hạ Long,"Số 153, Ngõ Lê Lợi",2025-11-14T12:57:21Z,Thường,1914538,2,2026-04-26
+CUST0098,Lê Quang Hoa,lê.quang.hoa1996@yahoo.com,0113894216,Nam,1996-11-28,Cần Thơ,Thốt Nốt,"Số 143, Đường Lê Lợi",2025-11-25T08:25:35Z,Bạc,13375497,7,2026-06-27
+CUST0099,Trần Ngọc Linh,trần.ngọc.linh2005@yahoo.com,0274998447,Nữ,2005-03-19,Bình Dương,Tân Uyên,"Số 102, Phố Nguyễn Trãi",2026-01-15T13:04:30Z,Bạc,14126759,8,2026-06-24
+CUST0100,Ngô Quang Mai,ngô.quang.mai1996@outlook.com,0547762108,Nam,1996-03-23,Thừa Thiên Huế,Phú Vang,"Số 107, Đường Nguyễn Trãi",2025-11-29T09:54:23Z,Bạc,7829617,4,2026-05-31
+CUST0101,Đặng Thế Tú,đặng.thế.tú1998@email.com,0948942257,Nam,1998-03-25,Thừa Thiên Huế,Phú Vang,"Số 75, Ngõ Lê Lợi",2025-12-11T07:20:42Z,Vàng,19573687,9,2026-06-21
+CUST0102,Trần Hữu Tú,trần.hữu.tú1996@outlook.com,0256214137,Nam,1996-12-13,Bình Dương,Thủ Dầu Một,"Số 190, Ngõ Cách mạng tháng 8",2026-02-22T06:09:00Z,VIP,30653118,18,2026-06-25
+CUST0103,Phạm Công Bình,phạm.công.bình2002@outlook.com,0797072303,Nam,2002-01-14,Đà Nẵng,Ngũ Hành Sơn,"Số 135, Phố Cách mạng tháng 8",2025-12-24T19:38:24Z,Thường,2405997,1,2026-06-21
+CUST0104,Hoàng Văn Phúc,hoàng.văn.phúc2002@email.com,0115091998,Nam,2002-04-22,Quảng Ninh,Móng Cái,"Số 77, Đường Hùng Vương",2025-11-15T18:26:09Z,Bạc,5681137,2,2026-04-29
+CUST0105,Đặng Đức Châu,đặng.đức.châu2000@email.com,0961064371,Nam,2000-01-28,Hồ Chí Minh,Thủ Đức,"Số 3, Đường Lê Lợi",2026-03-04T00:35:53Z,Thường,1271645,1,2026-06-04
+CUST0106,Trần Thanh Nam,trần.thanh.nam1994@email.com,0129621666,Nữ,1994-01-20,Hồ Chí Minh,Quận 7,"Số 121, Phố Lê Lợi",2026-01-07T20:59:05Z,Thường,3927394,3,2026-06-19
+CUST0107,Bùi Ngọc Mai,bùi.ngọc.mai1999@yahoo.com,0240045061,Nữ,1999-06-12,Hải Dương,Hải Dương,"Số 178, Ngõ Lê Lợi",2025-11-08T05:54:59Z,Vàng,10568652,8,2026-06-30
+CUST0108,Trần Quang Hùng,trần.quang.hùng2006@outlook.com,0445445867,Nam,2006-09-05,Hà Nội,Ba Đình,"Số 176, Ngõ Lê Lợi",2026-01-24T02:28:12Z,Bạc,6159472,5,2026-06-28
+CUST0109,Bùi Thế Trang,bùi.thế.trang1998@email.com,0542058358,Nam,1998-05-26,Hà Nội,Hai Bà Trưng,"Số 171, Ngõ Cách mạng tháng 8",2026-03-11T05:13:17Z,Vàng,18137464,11,2026-06-08
+CUST0110,Vũ Quang Nam,vũ.quang.nam2000@outlook.com,0169959498,Nam,2000-01-07,Cần Thơ,Cái Răng,"Số 25, Ngõ Lê Lợi",2026-01-04T04:08:30Z,Bạc,3787327,2,2026-06-17
+CUST0111,Hồ Minh Linh,hồ.minh.linh1998@email.com,0250024517,Nữ,1998-04-22,Cần Thơ,Thốt Nốt,"Số 116, Phố Trần Hưng Đạo",2026-01-22T19:50:09Z,Thường,3288721,1,2026-04-25
+CUST0112,Phạm Thu Linh,phạm.thu.linh1997@outlook.com,0266419422,Nữ,1997-02-28,Quảng Ninh,Cẩm Phả,"Số 52, Ngõ Cách mạng tháng 8",2026-03-04T03:01:21Z,Thường,5668522,5,2026-06-12
+CUST0113,Hồ Minh Hoa,hồ.minh.hoa2001@yahoo.com,0422761516,Nữ,2001-07-10,Cần Thơ,Bình Thủy,"Số 23, Đường Trần Hưng Đạo",2025-12-16T13:08:00Z,Vàng,19819236,11,2026-06-28
+CUST0114,Hồ Thu Anh,hồ.thu.anh2005@email.com,0611791178,Nữ,2005-08-04,Đà Nẵng,Sơn Trà,"Số 109, Phố Lê Lợi",2026-02-25T12:58:47Z,Bạc,17743424,9,2026-06-27
+CUST0115,Bùi Công Thủy,bùi.công.thủy2004@gmail.com,0696332032,Nam,2004-04-06,Hà Nội,Cầu Giấy,"Số 56, Đường Nguyễn Trãi",2025-12-08T21:39:20Z,Thường,3856990,2,2026-05-30
+CUST0116,Đỗ Thị Phúc,đỗ.thị.phúc2003@email.com,0834602551,Nữ,2003-03-17,Hải Phòng,Hồng Bàng,"Số 5, Ngõ Cách mạng tháng 8",2026-02-08T03:34:31Z,Bạc,15274647,9,2026-06-29
+CUST0117,Nguyễn Ngọc Châu,nguyễn.ngọc.châu1998@gmail.com,0261280195,Nữ,1998-03-22,Quảng Ninh,Móng Cái,"Số 41, Ngõ Trần Hưng Đạo",2026-02-27T13:46:37Z,Vàng,12856527,6,2026-06-15
+CUST0118,Nguyễn Hồng Lan,nguyễn.hồng.lan1999@yahoo.com,0919037185,Nữ,1999-06-01,Đà Nẵng,Thanh Khê,"Số 175, Ngõ Hùng Vương",2026-03-10T01:00:17Z,Bạc,8325902,5,2026-06-22
+CUST0119,Đỗ Hồng Bình,đỗ.hồng.bình1999@outlook.com,0381285196,Nữ,1999-01-27,Quảng Ninh,Móng Cái,"Số 26, Phố Hùng Vương",2025-11-30T16:06:34Z,Thường,8053928,3,2026-05-29
+CUST0120,Bùi Thanh Vân,bùi.thanh.vân2004@yahoo.com,0563466056,Nữ,2004-02-17,Hà Nội,Ba Đình,"Số 188, Phố Hùng Vương",2025-11-01T06:19:32Z,Vàng,18240059,11,2026-06-19
+CUST0121,Đặng Minh Vân,đặng.minh.vân2001@email.com,0665686654,Nữ,2001-11-08,Thừa Thiên Huế,Phú Vang,"Số 87, Ngõ Cách mạng tháng 8",2026-02-04T00:23:24Z,Bạc,15738153,8,2026-06-17
+CUST0122,Đỗ Gia Hùng,đỗ.gia.hùng2001@gmail.com,0335568744,Nam,2001-10-06,Thừa Thiên Huế,Huế,"Số 145, Đường Cách mạng tháng 8",2026-01-27T01:49:44Z,Bạc,14084686,6,2026-06-14
+CUST0123,Hồ Hồng Vân,hồ.hồng.vân2004@outlook.com,0355769344,Nữ,2004-12-19,Quảng Ninh,Hạ Long,"Số 151, Phố Lê Lợi",2026-03-09T21:24:54Z,Bạc,9020605,5,2026-05-17
+CUST0124,Hoàng Gia Lan,hoàng.gia.lan2006@outlook.com,0520883861,Nam,2006-07-04,Bình Dương,Thủ Dầu Một,"Số 72, Ngõ Cách mạng tháng 8",2026-02-28T11:14:46Z,Thường,6687660,2,2026-06-09
+CUST0125,Lê Đức Hùng,lê.đức.hùng1996@outlook.com,0461332641,Nam,1996-09-11,Đà Nẵng,Ngũ Hành Sơn,"Số 123, Phố Lê Lợi",2025-12-05T06:05:47Z,Bạc,10908730,5,2026-06-24
+CUST0126,Bùi Thanh Dũng,bùi.thanh.dũng2004@yahoo.com,0443666076,Nữ,2004-11-11,Hà Nội,Hai Bà Trưng,"Số 167, Đường Lê Lợi",2026-03-03T18:48:18Z,Bạc,15206950,9,2026-06-28
+CUST0127,Hồ Thanh Anh,hồ.thanh.anh1998@yahoo.com,0364929287,Nữ,1998-06-27,Thừa Thiên Huế,Huế,"Số 23, Phố Trần Hưng Đạo",2025-12-30T06:40:55Z,Thường,3308346,2,2026-06-21
+CUST0128,Phạm Đức Châu,phạm.đức.châu2008@yahoo.com,0396799337,Nam,2008-10-16,Thừa Thiên Huế,Phong Điền,"Số 184, Phố Trần Hưng Đạo",2026-02-12T05:19:09Z,Thường,5865320,4,2026-06-14
+CUST0129,Vũ Đức Phúc,vũ.đức.phúc1994@email.com,0214029988,Nam,1994-02-19,Hà Nội,Tây Hồ,"Số 84, Ngõ Nguyễn Trãi",2026-02-22T09:05:56Z,Bạc,12367515,7,2026-05-31
+CUST0130,Trần Gia Thủy,trần.gia.thủy2005@yahoo.com,0185584839,Nam,2005-02-01,Hải Dương,Hải Dương,"Số 134, Ngõ Trần Hưng Đạo",2025-11-14T17:57:08Z,Vàng,31205350,16,2026-06-30
+CUST0131,Trần Thu Linh,trần.thu.linh2003@email.com,0288598121,Nữ,2003-07-07,Quảng Ninh,Uông Bí,"Số 106, Đường Cách mạng tháng 8",2025-11-21T04:19:52Z,Bạc,17165222,6,2026-05-30
+CUST0132,Đỗ Thị Tú,đỗ.thị.tú1996@yahoo.com,0757101464,Nữ,1996-08-01,Cần Thơ,Cái Răng,"Số 197, Ngõ Cách mạng tháng 8",2026-02-02T22:12:35Z,Thường,1704134,2,2026-06-19
+CUST0133,Trần Hữu Hùng,trần.hữu.hùng1996@outlook.com,0632776600,Nam,1996-06-13,Bắc Ninh,Tiên Du,"Số 177, Đường Nguyễn Trãi",2025-12-02T01:41:05Z,VIP,31690645,21,2026-06-29
+CUST0134,Trần Thế Nam,trần.thế.nam2001@gmail.com,0884822443,Nam,2001-09-09,Quảng Ninh,Uông Bí,"Số 116, Phố Lê Lợi",2025-12-06T22:08:09Z,Vàng,20772004,9,2026-06-29
+CUST0135,Vũ Thùy Vân,vũ.thùy.vân2008@gmail.com,0569694958,Nữ,2008-01-20,Cần Thơ,Ninh Kiều,"Số 142, Đường Trần Hưng Đạo",2026-01-25T15:56:39Z,Thường,4459295,2,2026-06-11
+CUST0136,Ngô Phương Trang,ngô.phương.trang1995@outlook.com,0788348018,Nữ,1995-07-13,Hà Nội,Tây Hồ,"Số 139, Phố Trần Hưng Đạo",2025-11-12T11:05:19Z,Thường,1728954,2,2026-06-01
+CUST0137,Vũ Minh Phúc,vũ.minh.phúc2007@gmail.com,0433951822,Nam,2007-11-07,Bình Dương,Thủ Dầu Một,"Số 30, Đường Cách mạng tháng 8",2025-11-03T03:32:04Z,Thường,4825545,2,2026-06-05
+CUST0138,Nguyễn Minh Bình,nguyễn.minh.bình2001@yahoo.com,0951732939,Nữ,2001-06-28,Cần Thơ,Phong Điền,"Số 111, Phố Nguyễn Trãi",2026-02-08T12:04:23Z,Thường,8272998,4,2026-06-15
+CUST0139,Hoàng Ngọc Tú,hoàng.ngọc.tú2006@gmail.com,0722105002,Nữ,2006-11-14,Hải Phòng,Ngô Quyền,"Số 73, Phố Lê Lợi",2026-02-16T21:35:20Z,Thường,482636,1,2026-05-27
+CUST0140,Trần Gia Hoa,trần.gia.hoa1994@outlook.com,0986509406,Nam,1994-08-22,Thừa Thiên Huế,Hương Trà,"Số 1, Phố Hùng Vương",2026-02-03T20:40:35Z,Thường,8401090,3,2026-04-22
+CUST0141,Hồ Gia Dũng,hồ.gia.dũng1990@yahoo.com,0819289113,Nam,1990-04-13,Hải Dương,Nam Sách,"Số 147, Phố Hùng Vương",2025-12-07T23:03:37Z,Thường,1086703,1,2026-05-25
+CUST0142,Phạm Minh Dũng,phạm.minh.dũng1996@outlook.com,0418063502,Nam,1996-04-10,Hải Phòng,Kiến An,"Số 130, Phố Trần Hưng Đạo",2025-12-25T06:27:12Z,Thường,838064,1,2026-05-06
+CUST0143,Hồ Hữu Nam,hồ.hữu.nam2000@gmail.com,0940503136,Nam,2000-04-10,Hải Phòng,Ngô Quyền,"Số 162, Ngõ Lê Lợi",2025-12-31T16:02:05Z,Bạc,12767868,7,2026-06-01
+CUST0144,Phạm Quang Trang,phạm.quang.trang2004@outlook.com,0743098322,Nam,2004-04-19,Hà Nội,Hai Bà Trưng,"Số 96, Ngõ Cách mạng tháng 8",2025-11-09T23:40:02Z,Bạc,2621287,3,2026-06-25
+CUST0145,Phạm Thị Dũng,phạm.thị.dũng1993@gmail.com,0945207586,Nữ,1993-05-09,Quảng Ninh,Đông Triều,"Số 150, Ngõ Hùng Vương",2026-01-18T08:25:08Z,VIP,38616958,23,2026-06-29
+CUST0146,Vũ Hữu Hoa,vũ.hữu.hoa2007@email.com,0828666440,Nam,2007-06-17,Đà Nẵng,Hải Châu,"Số 165, Phố Lê Lợi",2026-03-27T08:47:03Z,Thường,3920972,2,2026-06-24
+CUST0147,Đặng Thế Bình,đặng.thế.bình2002@outlook.com,0215548334,Nam,2002-09-22,Bắc Ninh,Tiên Du,"Số 66, Ngõ Trần Hưng Đạo",2026-02-23T20:43:39Z,Vàng,13031143,9,2026-06-10
+CUST0148,Lê Thế Thủy,lê.thế.thủy2000@gmail.com,0218468452,Nam,2000-05-17,Bắc Ninh,Từ Sơn,"Số 78, Đường Cách mạng tháng 8",2025-12-24T02:41:14Z,Bạc,8711184,5,2026-06-15
+CUST0149,Nguyễn Hồng Dũng,nguyễn.hồng.dũng1992@gmail.com,0663744109,Nữ,1992-09-28,Hồ Chí Minh,Quận 1,"Số 75, Ngõ Trần Hưng Đạo",2026-01-13T13:22:20Z,Thường,5314741,2,2026-05-29
+CUST0150,Đỗ Hồng Dũng,đỗ.hồng.dũng2000@yahoo.com,0616759556,Nữ,2000-08-11,Bắc Ninh,Tiên Du,"Số 192, Đường Hùng Vương",2025-11-08T20:06:47Z,Bạc,8491985,4,2026-06-11
+CUST0151,Dương Công Bình,dương.công.bình2005@yahoo.com,0933254593,Nam,2005-10-03,Hà Nội,Long Biên,"Số 14, Phố Nguyễn Trãi",2026-01-04T14:14:04Z,Vàng,14211332,7,2026-06-25
+CUST0152,Đặng Hồng Linh,đặng.hồng.linh1998@gmail.com,0345379855,Nữ,1998-06-14,Hải Dương,Nam Sách,"Số 69, Đường Lê Lợi",2026-02-23T19:03:58Z,Thường,4667618,2,2026-06-18
+CUST0153,Vũ Công Trang,vũ.công.trang2002@email.com,0623488424,Nam,2002-09-19,Thừa Thiên Huế,Hương Trà,"Số 121, Đường Cách mạng tháng 8",2026-03-03T04:26:21Z,Bạc,6805255,6,2026-06-22
+CUST0154,Đặng Gia Trang,đặng.gia.trang1997@outlook.com,0893406190,Nam,1997-06-09,Cần Thơ,Cái Răng,"Số 18, Đường Nguyễn Trãi",2026-02-16T17:18:11Z,Bạc,7612669,3,2026-06-30
+CUST0155,Lê Ngọc Nam,lê.ngọc.nam1997@email.com,0220424043,Nữ,1997-08-21,Bình Dương,Tân Uyên,"Số 197, Ngõ Lê Lợi",2025-11-19T06:57:33Z,VIP,35006080,21,2026-06-24
+CUST0156,Lê Ngọc Thảo,lê.ngọc.thảo2001@email.com,0333347403,Nữ,2001-12-25,Hải Phòng,Hồng Bàng,"Số 127, Phố Hùng Vương",2026-02-26T11:12:24Z,Bạc,6714997,4,2026-06-16
+CUST0157,Hồ Minh Bình,hồ.minh.bình2004@outlook.com,0792543303,Nữ,2004-08-22,Thừa Thiên Huế,Phong Điền,"Số 193, Đường Hùng Vương",2025-11-12T17:14:24Z,Thường,7549228,4,2026-06-04
+CUST0158,Ngô Công Linh,ngô.công.linh2007@outlook.com,0214620475,Nam,2007-01-03,Thừa Thiên Huế,Huế,"Số 69, Phố Hùng Vương",2026-03-09T01:40:19Z,Thường,3294046,1,2026-06-18
+CUST0159,Đặng Minh Lan,đặng.minh.lan2004@yahoo.com,0312330804,Nữ,2004-10-27,Hà Nội,Cầu Giấy,"Số 77, Ngõ Lê Lợi",2025-11-10T12:52:53Z,Bạc,16629942,7,2026-06-23
+CUST0160,Dương Minh Thủy,dương.minh.thủy1998@gmail.com,0696480797,Nam,1998-12-19,Bình Dương,Thuận An,"Số 159, Ngõ Hùng Vương",2025-12-22T13:38:25Z,Bạc,11213826,3,2026-05-20
+CUST0161,Phạm Công Linh,phạm.công.linh2007@gmail.com,0627312497,Nam,2007-02-24,Đà Nẵng,Thanh Khê,"Số 137, Ngõ Hùng Vương",2025-12-26T15:44:30Z,Bạc,7947665,7,2026-05-24
+CUST0162,Nguyễn Thị Mai,nguyễn.thị.mai2006@gmail.com,0551948791,Nữ,2006-09-21,Đà Nẵng,Sơn Trà,"Số 59, Ngõ Cách mạng tháng 8",2026-03-05T17:03:59Z,Bạc,14083824,7,2026-06-09
+CUST0163,Vũ Phương Tú,vũ.phương.tú2003@yahoo.com,0397575653,Nữ,2003-11-27,Cần Thơ,Cái Răng,"Số 99, Phố Hùng Vương",2026-03-10T02:11:27Z,Vàng,6668382,4,2026-06-03
+CUST0164,Hồ Minh Hùng,hồ.minh.hùng2000@yahoo.com,0372981543,Nữ,2000-06-20,Thừa Thiên Huế,Phú Vang,"Số 176, Phố Hùng Vương",2026-01-20T19:03:32Z,Thường,1211811,1,2026-06-18
+CUST0165,Bùi Thùy Lan,bùi.thùy.lan1990@email.com,0791457231,Nữ,1990-06-10,Bắc Ninh,Bắc Ninh,"Số 148, Phố Hùng Vương",2025-12-27T23:36:59Z,Bạc,13393506,7,2026-06-19
+CUST0166,Nguyễn Đức Lan,nguyễn.đức.lan1998@yahoo.com,0188687268,Nam,1998-05-18,Bắc Ninh,Từ Sơn,"Số 98, Ngõ Cách mạng tháng 8",2026-03-14T22:34:36Z,VIP,20481236,15,2026-06-29
+CUST0167,Vũ Minh Châu,vũ.minh.châu1999@gmail.com,0963743499,Nam,1999-04-11,Bình Dương,Tân Uyên,"Số 169, Phố Nguyễn Trãi",2026-01-01T16:30:00Z,Thường,4377678,3,2026-06-12
+CUST0168,Nguyễn Công Trang,nguyễn.công.trang1993@email.com,0815195396,Nam,1993-03-05,Hải Phòng,Hồng Bàng,"Số 54, Ngõ Lê Lợi",2025-12-27T22:34:55Z,Thường,4549093,3,2026-04-29
+CUST0169,Bùi Thanh Thủy,bùi.thanh.thủy2004@yahoo.com,0910346299,Nữ,2004-02-18,Bình Dương,Bến Cát,"Số 71, Đường Cách mạng tháng 8",2025-11-29T19:45:56Z,Bạc,3626319,4,2026-05-31
+CUST0170,Phạm Hữu Linh,phạm.hữu.linh1997@yahoo.com,0894630862,Nam,1997-06-04,Hải Dương,Thanh Hà,"Số 169, Phố Nguyễn Trãi",2025-11-06T01:39:15Z,Thường,5708939,4,2026-06-29
+CUST0171,Lê Thế Hoa,lê.thế.hoa2008@gmail.com,0749430132,Nam,2008-06-05,Hồ Chí Minh,Thủ Đức,"Số 199, Phố Hùng Vương",2026-03-22T01:46:44Z,Bạc,6506047,3,2026-06-19
+CUST0172,Phạm Ngọc Thảo,phạm.ngọc.thảo2004@gmail.com,0442227280,Nữ,2004-08-18,Bắc Ninh,Tiên Du,"Số 21, Phố Trần Hưng Đạo",2026-01-07T05:19:44Z,Bạc,7875992,5,2026-06-06
+CUST0173,Vũ Công Thảo,vũ.công.thảo2003@outlook.com,0935398365,Nam,2003-01-25,Cần Thơ,Bình Thủy,"Số 84, Phố Cách mạng tháng 8",2025-12-03T17:33:43Z,Thường,4080879,3,2026-05-29
+CUST0174,Dương Phương Thủy,dương.phương.thủy1997@outlook.com,0649977300,Nữ,1997-09-20,Cần Thơ,Thốt Nốt,"Số 171, Ngõ Cách mạng tháng 8",2025-11-25T19:45:04Z,Bạc,11683760,6,2026-06-06
+CUST0175,Lê Văn Châu,lê.văn.châu1999@outlook.com,0963295823,Nam,1999-11-17,Cần Thơ,Ninh Kiều,"Số 89, Đường Trần Hưng Đạo",2026-01-07T19:50:29Z,Thường,4505989,2,2026-06-11
+CUST0176,Hoàng Thế Nam,hoàng.thế.nam2000@email.com,0112257279,Nam,2000-08-10,Cần Thơ,Thốt Nốt,"Số 29, Ngõ Cách mạng tháng 8",2025-12-17T02:02:04Z,Thường,3835973,3,2026-06-16
+CUST0177,Hoàng Thu Tú,hoàng.thu.tú2004@yahoo.com,0130799345,Nữ,2004-02-14,Bắc Ninh,Từ Sơn,"Số 81, Phố Trần Hưng Đạo",2025-12-15T01:39:50Z,Bạc,13394347,7,2026-06-27
+CUST0178,Hồ Văn Mai,hồ.văn.mai1999@gmail.com,0764087870,Nam,1999-07-10,Bắc Ninh,Từ Sơn,"Số 176, Phố Nguyễn Trãi",2025-12-06T20:50:09Z,Vàng,13999572,10,2026-05-31
+CUST0179,Hồ Thu Vân,hồ.thu.vân2004@yahoo.com,0610356589,Nữ,2004-11-25,Cần Thơ,Phong Điền,"Số 76, Đường Hùng Vương",2026-02-24T00:07:50Z,Vàng,12743040,10,2026-06-26
+CUST0180,Phạm Quang Mai,phạm.quang.mai1995@email.com,0919518571,Nam,1995-03-15,Hải Dương,Chí Linh,"Số 138, Đường Lê Lợi",2025-12-27T17:46:36Z,Thường,2566658,1,2026-04-12
+CUST0181,Hoàng Đức Châu,hoàng.đức.châu2004@email.com,0817828559,Nam,2004-02-08,Bình Dương,Thuận An,"Số 112, Phố Cách mạng tháng 8",2025-11-23T06:41:00Z,Thường,12764589,5,2026-05-20
+CUST0182,Vũ Phương Thủy,vũ.phương.thủy2002@yahoo.com,0880389475,Nữ,2002-01-22,Hải Dương,Thanh Hà,"Số 139, Ngõ Lê Lợi",2026-01-07T01:35:22Z,Bạc,4929279,2,2026-06-24
+CUST0183,Bùi Đức Hùng,bùi.đức.hùng1999@gmail.com,0713255300,Nam,1999-04-24,Quảng Ninh,Cẩm Phả,"Số 135, Phố Trần Hưng Đạo",2026-03-21T05:45:32Z,Bạc,13960631,8,2026-06-20
+CUST0184,Nguyễn Quang Trang,nguyễn.quang.trang1996@gmail.com,0337090143,Nam,1996-06-11,Cần Thơ,Phong Điền,"Số 138, Ngõ Cách mạng tháng 8",2026-01-12T03:18:31Z,Thường,5162983,2,2026-06-14
+CUST0185,Dương Công Thủy,dương.công.thủy2004@email.com,0582645347,Nam,2004-01-10,Hà Nội,Long Biên,"Số 27, Ngõ Hùng Vương",2026-03-31T14:43:00Z,Bạc,7410147,4,2026-06-17
+CUST0186,Hồ Thanh Nam,hồ.thanh.nam2004@yahoo.com,0229101662,Nữ,2004-07-15,Bình Dương,Thuận An,"Số 41, Đường Nguyễn Trãi",2026-03-19T11:19:48Z,Bạc,15241406,9,2026-06-21
+CUST0187,Trần Đức Lan,trần.đức.lan2003@outlook.com,0864004632,Nam,2003-12-07,Bắc Ninh,Tiên Du,"Số 167, Phố Nguyễn Trãi",2025-12-04T18:34:07Z,Thường,3039797,1,2026-04-11
+CUST0188,Vũ Thu Mai,vũ.thu.mai2000@email.com,0699390511,Nữ,2000-01-02,Hải Phòng,Đồ Sơn,"Số 40, Phố Nguyễn Trãi",2026-03-16T14:33:32Z,Vàng,11268304,6,2026-06-13
+CUST0189,Hồ Thị Trang,hồ.thị.trang1996@outlook.com,0166939704,Nữ,1996-05-03,Hà Nội,Tây Hồ,"Số 108, Đường Hùng Vương",2025-11-22T16:10:20Z,Vàng,1729514,1,2026-05-26
+CUST0190,Hồ Phương Mai,hồ.phương.mai2003@outlook.com,0981014237,Nữ,2003-10-15,Đà Nẵng,Hải Châu,"Số 33, Ngõ Cách mạng tháng 8",2026-01-13T07:48:35Z,Bạc,9034934,4,2026-06-08
+CUST0191,Lê Ngọc Thủy,lê.ngọc.thủy2000@gmail.com,0181007092,Nữ,2000-03-12,Hà Nội,Đống Đa,"Số 97, Phố Cách mạng tháng 8",2025-11-19T09:11:55Z,Thường,7866106,3,2026-06-23
+CUST0192,Dương Quang Vân,dương.quang.vân2005@email.com,0917527522,Nam,2005-04-27,Cần Thơ,Bình Thủy,"Số 52, Phố Hùng Vương",2026-01-31T14:30:26Z,Thường,1599645,2,2026-05-06
+CUST0193,Đỗ Thu Hoa,đỗ.thu.hoa1996@email.com,0785631695,Nữ,1996-03-08,Hồ Chí Minh,Quận Bình Thạnh,"Số 10, Phố Nguyễn Trãi",2026-01-22T08:53:53Z,Bạc,14304995,8,2026-06-23
+CUST0194,Phạm Minh Dũng,phạm.minh.dũng2003@yahoo.com,0289282203,Nam,2003-10-15,Hải Phòng,Hồng Bàng,"Số 91, Ngõ Nguyễn Trãi",2026-01-26T00:49:29Z,Thường,4983681,3,2026-05-15
+CUST0195,Lê Công Vân,lê.công.vân1999@email.com,0758029586,Nam,1999-12-08,Hà Nội,Cầu Giấy,"Số 149, Phố Hùng Vương",2026-01-07T10:48:15Z,Thường,4216971,2,2026-05-15
+CUST0196,Đỗ Hồng Dũng,đỗ.hồng.dũng1999@email.com,0199535815,Nữ,1999-02-17,Hải Dương,Thanh Hà,"Số 71, Ngõ Lê Lợi",2025-12-24T22:41:10Z,Vàng,45725436,14,2026-06-27
+CUST0197,Vũ Hữu Thủy,vũ.hữu.thủy2006@yahoo.com,0358440449,Nam,2006-06-01,Cần Thơ,Phong Điền,"Số 184, Đường Hùng Vương",2026-01-29T00:54:25Z,Vàng,15228512,8,2026-06-20
+CUST0198,Lê Thị Linh,lê.thị.linh1996@yahoo.com,0658117530,Nữ,1996-03-07,Hải Phòng,Kiến An,"Số 155, Ngõ Hùng Vương",2025-12-06T20:24:36Z,Bạc,3808745,6,2026-06-24
+CUST0199,Phạm Gia Tú,phạm.gia.tú1998@outlook.com,0429777173,Nam,1998-11-23,Hải Dương,Thanh Hà,"Số 33, Đường Trần Hưng Đạo",2025-11-17T11:44:12Z,Thường,4663639,3,2026-06-05
+CUST0200,Nguyễn Quang Vân,nguyễn.quang.vân1997@gmail.com,0720262895,Nam,1997-07-22,Hà Nội,Tây Hồ,"Số 10, Đường Trần Hưng Đạo",2025-11-25T05:54:11Z,Thường,1331047,1,2026-05-10
+CUST0201,Vũ Thị Lan,vũ.thị.lan1995@yahoo.com,0193622659,Nữ,1995-06-17,Hồ Chí Minh,Quận Tân Bình,"Số 77, Đường Nguyễn Trãi",2026-01-12T20:28:32Z,Bạc,5851159,6,2026-06-12
+CUST0202,Vũ Văn Mai,vũ.văn.mai2005@gmail.com,0318733259,Nam,2005-06-18,Bình Dương,Thuận An,"Số 126, Ngõ Nguyễn Trãi",2026-02-22T13:18:21Z,Thường,2966776,2,2026-06-24
+CUST0203,Trần Quang Thủy,trần.quang.thủy1996@gmail.com,0295854397,Nam,1996-06-06,Hải Dương,Nam Sách,"Số 43, Ngõ Cách mạng tháng 8",2026-01-08T05:53:11Z,Vàng,11927949,8,2026-06-25
+CUST0204,Lê Gia Mai,lê.gia.mai1992@yahoo.com,0963022468,Nam,1992-11-23,Bình Dương,Dĩ An,"Số 4, Ngõ Trần Hưng Đạo",2025-12-18T10:02:27Z,Bạc,19033624,8,2026-06-19
+CUST0205,Hồ Minh Mai,hồ.minh.mai1998@gmail.com,0650908462,Nam,1998-08-02,Hồ Chí Minh,Quận 7,"Số 84, Ngõ Trần Hưng Đạo",2026-03-01T18:41:28Z,Thường,4795456,3,2026-06-12
+CUST0206,Hoàng Ngọc Phúc,hoàng.ngọc.phúc1994@outlook.com,0319140814,Nữ,1994-12-25,Thừa Thiên Huế,Phú Vang,"Số 165, Đường Trần Hưng Đạo",2026-03-30T06:04:37Z,Vàng,29363770,12,2026-06-17
+CUST0207,Bùi Ngọc Tú,bùi.ngọc.tú2001@yahoo.com,0540623820,Nữ,2001-11-16,Hồ Chí Minh,Quận 3,"Số 173, Phố Trần Hưng Đạo",2025-11-21T12:28:35Z,Vàng,25330284,12,2026-06-25
+CUST0208,Trần Thu Thủy,trần.thu.thủy1990@email.com,0879965627,Nữ,1990-06-14,Hồ Chí Minh,Quận Tân Bình,"Số 13, Đường Trần Hưng Đạo",2025-12-08T17:34:25Z,VIP,28936319,16,2026-06-28
+CUST0209,Bùi Phương Trang,bùi.phương.trang2004@gmail.com,0361015791,Nữ,2004-02-02,Hồ Chí Minh,Quận Tân Bình,"Số 189, Ngõ Trần Hưng Đạo",2026-02-16T23:41:12Z,Bạc,7464964,4,2026-05-12
+CUST0210,Đặng Đức Anh,đặng.đức.anh1991@gmail.com,0286360782,Nam,1991-06-20,Bình Dương,Dĩ An,"Số 114, Đường Lê Lợi",2025-11-04T00:22:32Z,Thường,2241367,3,2026-06-24
+CUST0211,Nguyễn Phương Hoa,nguyễn.phương.hoa1995@email.com,0647143967,Nữ,1995-11-17,Hải Phòng,Lê Chân,"Số 10, Phố Trần Hưng Đạo",2026-03-14T01:26:10Z,Bạc,9484359,6,2026-06-15
+CUST0212,Đỗ Thế Dũng,đỗ.thế.dũng2006@outlook.com,0143632965,Nam,2006-03-09,Hải Phòng,Ngô Quyền,"Số 173, Phố Trần Hưng Đạo",2026-03-09T21:31:13Z,Bạc,7442675,4,2026-06-20
+CUST0213,Phạm Văn Hoa,phạm.văn.hoa1994@gmail.com,0355218901,Nam,1994-12-21,Quảng Ninh,Uông Bí,"Số 84, Phố Lê Lợi",2025-12-09T08:12:07Z,Vàng,16566009,11,2026-06-21
+CUST0214,Phạm Hữu Dũng,phạm.hữu.dũng1990@yahoo.com,0336630614,Nam,1990-11-15,Hà Nội,Tây Hồ,"Số 93, Phố Cách mạng tháng 8",2026-02-13T01:19:57Z,VIP,23768542,14,2026-06-20
+CUST0215,Trần Minh Thủy,trần.minh.thủy1997@gmail.com,0256089154,Nữ,1997-06-16,Bắc Ninh,Tiên Du,"Số 187, Phố Trần Hưng Đạo",2026-03-15T06:19:32Z,Bạc,7270194,4,2026-06-04
+CUST0216,Vũ Minh Linh,vũ.minh.linh1997@yahoo.com,0695333121,Nam,1997-02-20,Thừa Thiên Huế,Phú Vang,"Số 114, Ngõ Cách mạng tháng 8",2025-12-03T19:01:48Z,Thường,5586316,3,2026-05-10
+CUST0217,Vũ Minh Trang,vũ.minh.trang2002@yahoo.com,0916486176,Nam,2002-04-03,Hồ Chí Minh,Quận 1,"Số 114, Đường Cách mạng tháng 8",2025-12-10T23:35:23Z,VIP,23929478,15,2026-06-24
+CUST0218,Bùi Hồng Lan,bùi.hồng.lan1998@yahoo.com,0780548479,Nữ,1998-06-01,Thừa Thiên Huế,Hương Thủy,"Số 4, Phố Hùng Vương",2026-03-27T16:08:19Z,VIP,33382985,16,2026-06-24
+CUST0219,Dương Minh Trang,dương.minh.trang1994@gmail.com,0239101661,Nữ,1994-02-02,Hải Phòng,Lê Chân,"Số 26, Đường Trần Hưng Đạo",2026-03-08T09:28:53Z,Thường,2200386,1,2026-04-17
+CUST0220,Lê Thanh Vân,lê.thanh.vân2002@yahoo.com,0734148295,Nữ,2002-12-19,Bình Dương,Thuận An,"Số 182, Đường Hùng Vương",2026-01-02T02:37:52Z,Thường,3132107,3,2026-05-14
+CUST0221,Dương Thế Mai,dương.thế.mai1996@email.com,0827363342,Nam,1996-11-03,Quảng Ninh,Uông Bí,"Số 163, Ngõ Nguyễn Trãi",2026-02-12T02:52:10Z,Bạc,9954515,6,2026-06-16
+CUST0222,Hồ Công Thủy,hồ.công.thủy1996@email.com,0997806390,Nam,1996-06-19,Cần Thơ,Ninh Kiều,"Số 125, Phố Lê Lợi",2026-01-06T06:13:54Z,Bạc,10659419,4,2026-05-18
+CUST0223,Hồ Thu Bình,hồ.thu.bình2003@yahoo.com,0312343550,Nữ,2003-02-02,Thừa Thiên Huế,Hương Trà,"Số 102, Đường Cách mạng tháng 8",2025-12-05T06:14:27Z,Thường,1257096,1,2026-04-17
+CUST0224,Hoàng Thế Trang,hoàng.thế.trang1991@gmail.com,0291498807,Nam,1991-02-21,Quảng Ninh,Cẩm Phả,"Số 147, Phố Cách mạng tháng 8",2026-01-29T14:08:17Z,Thường,4534538,4,2026-06-10
+CUST0225,Ngô Công Dũng,ngô.công.dũng1999@yahoo.com,0774593751,Nam,1999-01-19,Thừa Thiên Huế,Phú Vang,"Số 65, Ngõ Cách mạng tháng 8",2026-02-11T01:05:24Z,VIP,28637630,18,2026-06-30
+CUST0226,Lê Hữu Thủy,lê.hữu.thủy2000@outlook.com,0155455297,Nam,2000-06-14,Thừa Thiên Huế,Phong Điền,"Số 98, Phố Cách mạng tháng 8",2025-12-20T23:50:39Z,VIP,22282437,13,2026-06-09
+CUST0227,Hoàng Thanh Vân,hoàng.thanh.vân1990@gmail.com,0234605072,Nữ,1990-09-19,Thừa Thiên Huế,Huế,"Số 71, Phố Trần Hưng Đạo",2025-12-17T04:01:33Z,Thường,1650998,2,2026-04-15
+CUST0228,Nguyễn Minh Thảo,nguyễn.minh.thảo1991@yahoo.com,0592664604,Nữ,1991-06-09,Đà Nẵng,Liên Chiểu,"Số 35, Ngõ Lê Lợi",2026-03-15T10:11:22Z,Bạc,5505020,3,2026-06-21
+CUST0229,Bùi Minh Anh,bùi.minh.anh1999@gmail.com,0982876917,Nam,1999-05-10,Đà Nẵng,Sơn Trà,"Số 30, Đường Lê Lợi",2025-12-19T16:34:53Z,Thường,5701770,3,2026-05-13
+CUST0230,Ngô Phương Nam,ngô.phương.nam1999@outlook.com,0553800473,Nữ,1999-03-27,Hải Dương,Thanh Hà,"Số 200, Phố Nguyễn Trãi",2026-01-24T09:34:21Z,Thường,3104646,2,2026-05-28
+CUST0231,Hoàng Thùy Thảo,hoàng.thùy.thảo2002@outlook.com,0770739104,Nữ,2002-05-24,Hải Phòng,Hồng Bàng,"Số 68, Đường Cách mạng tháng 8",2026-03-03T05:09:06Z,VIP,16024696,9,2026-06-26
+CUST0232,Đặng Thanh Thảo,đặng.thanh.thảo2004@gmail.com,0868538298,Nữ,2004-09-19,Cần Thơ,Ninh Kiều,"Số 63, Phố Trần Hưng Đạo",2025-11-17T06:30:24Z,Thường,1907599,2,2026-05-19
+CUST0233,Bùi Công Linh,bùi.công.linh2001@email.com,0612436069,Nam,2001-10-25,Thừa Thiên Huế,Hương Thủy,"Số 63, Ngõ Trần Hưng Đạo",2026-02-19T00:24:29Z,Vàng,10142026,7,2026-06-22
+CUST0234,Hồ Hồng Vân,hồ.hồng.vân1999@email.com,0215349688,Nữ,1999-04-11,Hải Dương,Hải Dương,"Số 6, Phố Cách mạng tháng 8",2026-03-08T06:39:55Z,Bạc,13321079,9,2026-06-10
+CUST0235,Đặng Quang Tú,đặng.quang.tú2001@email.com,0879562941,Nam,2001-07-10,Bắc Ninh,Bắc Ninh,"Số 5, Phố Hùng Vương",2025-12-20T16:00:07Z,Thường,7801475,2,2026-06-11
+CUST0236,Đặng Công Linh,đặng.công.linh2006@email.com,0294269327,Nam,2006-08-10,Bình Dương,Bến Cát,"Số 146, Đường Hùng Vương",2025-11-22T19:54:02Z,Thường,2612892,1,2026-05-05
+CUST0237,Hồ Gia Trang,hồ.gia.trang2001@yahoo.com,0346044026,Nam,2001-04-07,Hải Dương,Thanh Hà,"Số 171, Ngõ Lê Lợi",2026-03-12T01:44:56Z,Bạc,9300995,4,2026-06-27
+CUST0238,Nguyễn Thùy Tú,nguyễn.thùy.tú1992@outlook.com,0837255688,Nữ,1992-09-24,Thừa Thiên Huế,Huế,"Số 111, Ngõ Cách mạng tháng 8",2026-01-08T10:07:04Z,Bạc,15544798,8,2026-06-22
+CUST0239,Đỗ Thùy Tú,đỗ.thùy.tú1990@outlook.com,0970818899,Nữ,1990-04-05,Hải Phòng,Đồ Sơn,"Số 85, Phố Trần Hưng Đạo",2026-01-31T07:06:20Z,Bạc,7673693,6,2026-06-16
+CUST0240,Bùi Thu Linh,bùi.thu.linh1990@yahoo.com,0744979236,Nữ,1990-10-26,Hải Phòng,Kiến An,"Số 46, Ngõ Cách mạng tháng 8",2025-11-11T05:41:23Z,Thường,2010762,1,2026-05-14
+CUST0241,Nguyễn Gia Thảo,nguyễn.gia.thảo2003@outlook.com,0974515361,Nam,2003-04-25,Quảng Ninh,Đông Triều,"Số 158, Phố Hùng Vương",2026-03-02T01:20:19Z,VIP,26516703,15,2026-06-30
+CUST0242,Trần Hữu Mai,trần.hữu.mai1996@email.com,0397488763,Nam,1996-11-01,Hồ Chí Minh,Quận Bình Thạnh,"Số 5, Phố Lê Lợi",2026-01-03T15:53:12Z,Vàng,13837198,9,2026-06-12
+CUST0243,Vũ Ngọc Dũng,vũ.ngọc.dũng2004@outlook.com,0555195882,Nữ,2004-08-24,Thừa Thiên Huế,Phú Vang,"Số 60, Đường Trần Hưng Đạo",2025-11-22T20:52:51Z,Vàng,6533922,3,2026-05-09
+CUST0244,Hoàng Minh Vân,hoàng.minh.vân2003@outlook.com,0957581433,Nữ,2003-12-28,Bình Dương,Bến Cát,"Số 37, Ngõ Hùng Vương",2026-02-14T00:03:16Z,Bạc,6493578,4,2026-05-01
+CUST0245,Dương Văn Dũng,dương.văn.dũng2003@outlook.com,0266104526,Nam,2003-10-08,Thừa Thiên Huế,Hương Thủy,"Số 100, Đường Trần Hưng Đạo",2025-12-11T23:16:48Z,Vàng,20683920,10,2026-06-27
+CUST0246,Phạm Minh Thủy,phạm.minh.thủy2008@email.com,0394752507,Nữ,2008-06-23,Hải Dương,Chí Linh,"Số 136, Ngõ Nguyễn Trãi",2026-03-24T06:19:14Z,Thường,884353,2,2026-05-31
+CUST0247,Hồ Quang Thủy,hồ.quang.thủy2002@gmail.com,0191961348,Nam,2002-10-23,Thừa Thiên Huế,Hương Thủy,"Số 83, Phố Nguyễn Trãi",2025-12-09T10:39:34Z,Bạc,4076235,3,2026-06-30
+CUST0248,Lê Quang Nam,lê.quang.nam1997@email.com,0120924835,Nam,1997-05-15,Bắc Ninh,Tiên Du,"Số 67, Đường Nguyễn Trãi",2025-11-12T22:31:45Z,VIP,42168820,20,2026-06-26
+CUST0249,Dương Gia Lan,dương.gia.lan1997@email.com,0677404953,Nam,1997-04-10,Hà Nội,Tây Hồ,"Số 86, Đường Cách mạng tháng 8",2026-01-18T20:06:30Z,Bạc,4812746,3,2026-05-16
+CUST0250,Vũ Ngọc Mai,vũ.ngọc.mai2004@email.com,0592022879,Nữ,2004-09-22,Bắc Ninh,Từ Sơn,"Số 65, Đường Cách mạng tháng 8",2026-02-26T13:54:02Z,Vàng,25009208,12,2026-06-22
+CUST0251,Ngô Hữu Nam,ngô.hữu.nam1999@gmail.com,0368466622,Nam,1999-06-11,Hải Phòng,Đồ Sơn,"Số 89, Phố Hùng Vương",2026-02-12T10:55:45Z,VIP,40909156,17,2026-06-29
+CUST0252,Hoàng Thanh Linh,hoàng.thanh.linh2000@yahoo.com,0517437681,Nữ,2000-11-15,Đà Nẵng,Liên Chiểu,"Số 172, Ngõ Hùng Vương",2026-01-21T06:28:04Z,Thường,5424402,2,2026-05-07
+CUST0253,Đỗ Công Tú,đỗ.công.tú2007@gmail.com,0491427556,Nam,2007-02-06,Cần Thơ,Cái Răng,"Số 184, Đường Nguyễn Trãi",2026-01-28T04:43:50Z,Bạc,7226226,3,2026-06-29
+CUST0254,Đỗ Văn Nam,đỗ.văn.nam2000@yahoo.com,0252798726,Nam,2000-11-08,Hải Dương,Hải Dương,"Số 145, Đường Hùng Vương",2026-02-10T02:12:49Z,Vàng,7558760,6,2026-06-27
+CUST0255,Hoàng Văn Dũng,hoàng.văn.dũng2003@email.com,0685086581,Nam,2003-10-15,Cần Thơ,Thốt Nốt,"Số 101, Phố Nguyễn Trãi",2025-12-30T03:36:24Z,Thường,2359794,2,2026-05-08
+CUST0256,Ngô Gia Thủy,ngô.gia.thủy1991@gmail.com,0934938971,Nam,1991-08-22,Hà Nội,Đống Đa,"Số 77, Ngõ Hùng Vương",2025-12-05T00:05:38Z,Thường,5783468,3,2026-06-20
+CUST0257,Phạm Quang Vân,phạm.quang.vân1999@yahoo.com,0123370532,Nam,1999-01-17,Bắc Ninh,Bắc Ninh,"Số 133, Ngõ Cách mạng tháng 8",2025-11-30T20:53:27Z,Vàng,19488366,13,2026-06-23
+CUST0258,Trần Ngọc Mai,trần.ngọc.mai2006@yahoo.com,0634907080,Nữ,2006-01-02,Bình Dương,Bến Cát,"Số 156, Ngõ Nguyễn Trãi",2025-11-21T13:24:31Z,Vàng,11658719,7,2026-06-01
+CUST0259,Dương Thùy Châu,dương.thùy.châu1996@outlook.com,0274250666,Nữ,1996-06-19,Cần Thơ,Thốt Nốt,"Số 179, Ngõ Cách mạng tháng 8",2025-11-28T23:53:33Z,Bạc,10244252,4,2026-06-12
+CUST0260,Đặng Thế Nam,đặng.thế.nam2005@gmail.com,0828417179,Nam,2005-11-26,Thừa Thiên Huế,Hương Trà,"Số 199, Đường Lê Lợi",2025-11-16T08:08:23Z,Thường,5913827,3,2026-06-11
+CUST0261,Ngô Hữu Tú,ngô.hữu.tú1996@outlook.com,0780948410,Nam,1996-11-11,Bình Dương,Bến Cát,"Số 51, Phố Cách mạng tháng 8",2026-03-11T14:19:00Z,Thường,1715341,3,2026-06-27
+CUST0262,Trần Minh Linh,trần.minh.linh2006@outlook.com,0568343955,Nam,2006-12-10,Bắc Ninh,Tiên Du,"Số 104, Ngõ Cách mạng tháng 8",2026-02-17T10:57:14Z,VIP,21586462,13,2026-06-25
+CUST0263,Nguyễn Thùy Bình,nguyễn.thùy.bình2000@yahoo.com,0192596210,Nữ,2000-07-20,Bắc Ninh,Tiên Du,"Số 136, Ngõ Nguyễn Trãi",2025-11-29T14:31:02Z,VIP,19939966,16,2026-06-29
+CUST0264,Đặng Ngọc Trang,đặng.ngọc.trang1996@email.com,0268089227,Nữ,1996-07-12,Bắc Ninh,Từ Sơn,"Số 142, Ngõ Lê Lợi",2025-12-04T21:52:03Z,Vàng,19648383,11,2026-06-16
+CUST0265,Bùi Hồng Dũng,bùi.hồng.dũng1997@outlook.com,0824256374,Nữ,1997-08-19,Cần Thơ,Cái Răng,"Số 35, Đường Hùng Vương",2026-03-24T12:47:07Z,Bạc,2119710,1,2026-04-15
+CUST0266,Nguyễn Minh Lan,nguyễn.minh.lan2003@outlook.com,0477023829,Nam,2003-11-18,Hải Dương,Hải Dương,"Số 131, Ngõ Nguyễn Trãi",2026-01-01T09:39:35Z,Vàng,19275145,9,2026-06-26
+CUST0267,Hồ Quang Tú,hồ.quang.tú1998@email.com,0741387447,Nam,1998-01-10,Hải Dương,Hải Dương,"Số 151, Ngõ Hùng Vương",2025-11-26T21:55:11Z,Thường,9279330,5,2026-06-18
+CUST0268,Phạm Gia Bình,phạm.gia.bình2008@email.com,0973908349,Nam,2008-12-28,Cần Thơ,Ninh Kiều,"Số 52, Phố Cách mạng tháng 8",2025-12-13T15:56:29Z,Thường,2995413,2,2026-05-22
+CUST0269,Lê Thùy Thảo,lê.thùy.thảo1999@gmail.com,0699355659,Nữ,1999-07-04,Hồ Chí Minh,Thủ Đức,"Số 88, Phố Trần Hưng Đạo",2025-12-09T03:30:01Z,Bạc,11089992,6,2026-06-16
+CUST0270,Trần Công Dũng,trần.công.dũng1996@email.com,0885655374,Nam,1996-07-16,Hồ Chí Minh,Quận Tân Bình,"Số 46, Đường Lê Lợi",2026-03-27T21:50:17Z,Vàng,14998165,7,2026-06-16
+CUST0271,Trần Thị Thủy,trần.thị.thủy1993@email.com,0954902703,Nữ,1993-02-05,Hồ Chí Minh,Thủ Đức,"Số 123, Phố Cách mạng tháng 8",2025-12-23T09:34:37Z,Thường,10110733,5,2026-06-27
+CUST0272,Dương Hữu Dũng,dương.hữu.dũng2004@outlook.com,0342915643,Nam,2004-07-17,Bình Dương,Bến Cát,"Số 48, Ngõ Cách mạng tháng 8",2026-01-02T20:14:45Z,VIP,28940934,15,2026-06-26
+CUST0273,Đỗ Phương Lan,đỗ.phương.lan2003@outlook.com,0630123005,Nữ,2003-10-28,Hải Phòng,Đồ Sơn,"Số 20, Ngõ Cách mạng tháng 8",2025-12-17T04:02:31Z,Thường,4214953,2,2026-04-18
+CUST0274,Lê Thùy Nam,lê.thùy.nam2004@outlook.com,0633293746,Nữ,2004-10-26,Quảng Ninh,Cẩm Phả,"Số 142, Phố Trần Hưng Đạo",2025-12-10T00:00:20Z,Vàng,14971453,7,2026-06-13
+CUST0275,Dương Phương Phúc,dương.phương.phúc1994@gmail.com,0389244013,Nữ,1994-10-04,Bình Dương,Tân Uyên,"Số 141, Ngõ Cách mạng tháng 8",2026-02-18T13:09:09Z,Bạc,4224025,5,2026-06-25
+CUST0276,Hồ Quang Trang,hồ.quang.trang2004@gmail.com,0338441083,Nam,2004-11-06,Hải Dương,Nam Sách,"Số 151, Đường Trần Hưng Đạo",2025-11-09T16:46:53Z,Thường,6006325,2,2026-05-18
+CUST0277,Trần Minh Thảo,trần.minh.thảo2005@gmail.com,0140218663,Nam,2005-05-14,Cần Thơ,Ninh Kiều,"Số 16, Ngõ Lê Lợi",2026-01-12T23:03:49Z,VIP,10697023,10,2026-06-30
+CUST0278,Hồ Đức Vân,hồ.đức.vân2005@gmail.com,0137029625,Nam,2005-08-07,Đà Nẵng,Hải Châu,"Số 110, Ngõ Trần Hưng Đạo",2026-01-31T02:06:23Z,Thường,7753593,4,2026-06-28
+CUST0279,Hoàng Minh Hùng,hoàng.minh.hùng2003@gmail.com,0598561413,Nam,2003-07-04,Cần Thơ,Ninh Kiều,"Số 118, Đường Nguyễn Trãi",2026-01-23T18:25:59Z,Vàng,20577369,13,2026-06-21
+CUST0280,Bùi Ngọc Hoa,bùi.ngọc.hoa2001@outlook.com,0497130956,Nữ,2001-01-23,Quảng Ninh,Đông Triều,"Số 102, Ngõ Hùng Vương",2025-11-09T02:43:49Z,Vàng,15418793,10,2026-06-28
+CUST0281,Dương Gia Dũng,dương.gia.dũng2003@email.com,0571003444,Nam,2003-09-18,Hải Phòng,Đồ Sơn,"Số 56, Phố Trần Hưng Đạo",2025-11-24T13:22:58Z,Thường,4112245,3,2026-06-26
+CUST0282,Hoàng Minh Bình,hoàng.minh.bình2007@outlook.com,0771874662,Nam,2007-09-20,Hải Dương,Thanh Hà,"Số 42, Phố Lê Lợi",2026-02-18T17:16:39Z,Thường,9977607,5,2026-06-20
+CUST0283,Lê Minh Anh,lê.minh.anh2004@email.com,0625366060,Nam,2004-11-27,Hải Phòng,Đồ Sơn,"Số 26, Ngõ Lê Lợi",2026-02-20T00:23:46Z,Bạc,8215454,2,2026-06-24
+CUST0284,Đặng Minh Tú,đặng.minh.tú2000@yahoo.com,0153859082,Nam,2000-12-02,Đà Nẵng,Ngũ Hành Sơn,"Số 53, Đường Lê Lợi",2025-11-22T22:16:56Z,Thường,7461695,2,2026-06-20
+CUST0285,Bùi Thanh Thủy,bùi.thanh.thủy1995@outlook.com,0624289277,Nữ,1995-09-16,Hà Nội,Đống Đa,"Số 40, Ngõ Cách mạng tháng 8",2026-03-27T03:46:57Z,VIP,50320448,25,2026-06-30
+CUST0286,Đỗ Thanh Tú,đỗ.thanh.tú2003@outlook.com,0486453127,Nữ,2003-02-04,Hải Phòng,Kiến An,"Số 178, Phố Hùng Vương",2025-12-10T13:41:21Z,Thường,5601301,4,2026-06-11
+CUST0287,Nguyễn Thanh Tú,nguyễn.thanh.tú2005@yahoo.com,0919428574,Nữ,2005-03-24,Đà Nẵng,Ngũ Hành Sơn,"Số 176, Ngõ Lê Lợi",2025-12-12T06:07:58Z,Thường,1930848,3,2026-06-19
+CUST0288,Đặng Quang Lan,đặng.quang.lan1998@yahoo.com,0717481087,Nam,1998-04-06,Bắc Ninh,Tiên Du,"Số 13, Đường Hùng Vương",2026-03-11T06:39:16Z,Bạc,5685935,6,2026-06-21
+CUST0289,Dương Công Phúc,dương.công.phúc1992@email.com,0483409480,Nam,1992-09-22,Bắc Ninh,Từ Sơn,"Số 12, Phố Nguyễn Trãi",2026-03-16T15:04:13Z,Thường,2863223,1,2026-06-11
+CUST0290,Bùi Minh Vân,bùi.minh.vân2005@outlook.com,0497137892,Nam,2005-03-11,Hà Nội,Đống Đa,"Số 4, Ngõ Lê Lợi",2025-11-25T16:45:49Z,Vàng,21099180,13,2026-06-06
+CUST0291,Đặng Phương Vân,đặng.phương.vân2001@yahoo.com,0179405027,Nữ,2001-03-10,Hải Dương,Hải Dương,"Số 166, Ngõ Hùng Vương",2025-12-18T10:01:52Z,Thường,2661684,4,2026-06-28
+CUST0292,Ngô Thùy Lan,ngô.thùy.lan2008@email.com,0246855290,Nữ,2008-01-04,Hà Nội,Cầu Giấy,"Số 14, Phố Cách mạng tháng 8",2025-12-24T07:27:40Z,Thường,6201196,3,2026-06-21
+CUST0293,Ngô Quang Mai,ngô.quang.mai2006@yahoo.com,0824932495,Nam,2006-02-01,Hồ Chí Minh,Quận 1,"Số 183, Ngõ Hùng Vương",2025-11-13T23:34:40Z,Bạc,13332452,9,2026-06-30
+CUST0294,Bùi Văn Lan,bùi.văn.lan1992@outlook.com,0475386959,Nam,1992-08-15,Bắc Ninh,Quế Võ,"Số 54, Ngõ Cách mạng tháng 8",2026-03-20T04:00:53Z,Bạc,13776490,8,2026-06-13
+CUST0295,Bùi Ngọc Vân,bùi.ngọc.vân2005@outlook.com,0531502517,Nữ,2005-02-24,Hải Phòng,Đồ Sơn,"Số 105, Đường Cách mạng tháng 8",2026-01-23T02:46:02Z,Vàng,11930357,7,2026-06-25
+CUST0296,Dương Thu Vân,dương.thu.vân1996@yahoo.com,0698343280,Nữ,1996-06-28,Bắc Ninh,Quế Võ,"Số 58, Ngõ Lê Lợi",2026-01-29T12:11:42Z,Vàng,33798354,18,2026-06-25
+CUST0297,Nguyễn Quang Anh,nguyễn.quang.anh2003@gmail.com,0347258698,Nam,2003-10-17,Bắc Ninh,Tiên Du,"Số 64, Đường Cách mạng tháng 8",2025-11-25T12:49:06Z,Thường,2311668,2,2026-06-26
+CUST0298,Ngô Minh Tú,ngô.minh.tú2004@gmail.com,0819627344,Nam,2004-12-16,Bình Dương,Dĩ An,"Số 130, Ngõ Trần Hưng Đạo",2026-01-06T20:44:09Z,Bạc,6525972,5,2026-06-20
+CUST0299,Trần Minh Mai,trần.minh.mai1995@gmail.com,0422417273,Nữ,1995-04-24,Bắc Ninh,Quế Võ,"Số 62, Phố Lê Lợi",2025-12-10T10:36:50Z,Thường,3833028,2,2026-05-18
+CUST0300,Hồ Thùy Phúc,hồ.thùy.phúc2001@outlook.com,0920410236,Nữ,2001-06-02,Đà Nẵng,Thanh Khê,"Số 86, Phố Hùng Vương",2026-01-31T18:31:39Z,Bạc,8385320,6,2026-06-18
