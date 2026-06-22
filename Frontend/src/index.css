@@ -1,0 +1,143 @@
+/* ========== RESET CSS ========== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ========== WHITE THEME FOR ENTIRE APP ========== */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #ffffff !important;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #ffffff !important;
+}
+
+#root {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-height: 100vh !important;
+  display: block !important;
+  background: #ffffff !important;
+}
+
+/* Toàn bộ nền trắng */
+.App, .dashboard-layout, .main-content, .fashion-dashboard {
+  background: #ffffff !important;
+}
+
+/* Sidebar - màu trắng/xám nhạt */
+.sidebar {
+  background: #f8f9fa !important;
+  border-right: 1px solid #e5e7eb !important;
+  box-shadow: none !important;
+}
+
+.sidebar .logo {
+  color: #111827 !important;
+  background: none !important;
+  -webkit-text-fill-color: #111827 !important;
+}
+
+.sidebar-header .logo {
+  background: none !important;
+  -webkit-text-fill-color: #111827 !important;
+  color: #111827 !important;
+}
+
+.sidebar-header p {
+  color: #6b7280 !important;
+}
+
+.menu-item {
+  color: #374151 !important;
+  background: transparent !important;
+}
+
+.menu-item:hover {
+  background: #f3f4f6 !important;
+  color: #111827 !important;
+}
+
+.menu-item.active {
+  background: #eff6ff !important;
+  color: #3b82f6 !important;
+  border-left: 3px solid #3b82f6 !important;
+}
+
+/* Header nền trắng */
+.dashboard-header, .page-header {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb !important;
+}
+
+/* Tất cả card nền trắng */
+.stat-card, .form-card, .table-card, .filters-section,
+.customer-table, .add-customer-form, .modal-container {
+  background: #ffffff !important;
+}
+
+/* Bỏ gradient tím */
+.analytics-title h2 {
+  background: none !important;
+  -webkit-text-fill-color: #111827 !important;
+  color: #111827 !important;
+}
+
+/* Nút bấm màu xanh dương */
+.btn-add-customer, .btn-submit, .btn-save, .channel-btn.active {
+  background: #3b82f6 !important;
+}
+
+.btn-add-customer:hover, .btn-submit:hover, .btn-save:hover {
+  background: #2563eb !important;
+}
+
+/* Footer */
+.dashboard-footer, .footer {
+  border-top-color: #e5e7eb !important;
+  color: #9ca3af !important;
+  background: #ffffff !important;
+}
+
+/* Fix chữ mờ */
+* {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  text-rendering: optimizeLegibility !important;
+}
+
+body, .stat-value, .stat-info h3, .menu-item, .header-left h1, .header-left p, .analytics-title h2, .analytics-title p, .customer-header h1, th, td, label, input, button {
+  color: #1a1a2e !important;
+  font-weight: 500 !important;
+}
+
+.stat-value {
+  font-weight: 800 !important;
+  font-size: 28px !important;
+}
+
+.stat-info h3 {
+  font-weight: 700 !important;
+  color: #4a5568 !important;
+}
+
+.menu-item {
+  font-weight: 500 !important;
+  font-size: 14px !important;
+}
+
+/* Làm đậm chữ trong input */
+input, input::placeholder {
+  color: #1a1a2e !important;
+  font-weight: 500 !important;
+  opacity: 1 !important;
+}
